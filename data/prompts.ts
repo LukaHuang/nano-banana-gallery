@@ -71,6 +71,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Modern Poster Design from Photo',
       zh: '照片轉現代海報設計',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Transform photos into modern flat design posters with Y2K/acid aesthetics',
@@ -91,6 +92,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Photo Enhancement & Upscaling',
       zh: '照片增強與放大',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Professional portrait enhancement with detailed skin rendering',
@@ -110,6 +112,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Street Mural with Girl & Rose Flowers',
       zh: '街頭壁畫：女孩與玫瑰花',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Anime-style portrait integrated with realistic street mural setting',
@@ -129,6 +132,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Cloud Relaxation Scene',
       zh: '雲端放鬆場景',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Surreal scene composition with character placed in dreamy environment',
@@ -148,6 +152,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Product Render Design',
       zh: '產品渲染設計',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Technical product visualization from sketch specifications',
@@ -167,6 +172,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Aircraft Cross-Section Technical Infographic',
       zh: '飛機橫斷面技術資訊圖',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Technical cutaway illustration with engineering annotations',
@@ -186,6 +192,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Comic Strip Story (Zebra & Elephant)',
       zh: '連環畫故事（斑馬與大象）',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Multi-panel narrative illustration for young children',
@@ -205,6 +212,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Camera Aperture Comparison Photography',
       zh: '相機光圈對比攝影',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Comparative photography demonstrating aperture settings',
@@ -224,6 +232,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Fashion Photography - Glamour Portrait',
       zh: '時尚攝影 - 魅力肖像',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'High-fashion glamour portrait with costume emphasis',
@@ -243,6 +252,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Landmark Blueprint Infographic',
       zh: '地標藍圖資訊圖',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Educational architectural overlay combining photography and schematics',
@@ -263,6 +273,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Sketch to Photorealistic Anime',
       zh: '素描轉逼真動漫',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Convert sketches into photorealistic anime scenes',
@@ -282,6 +293,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Instant Camera Portrait',
       zh: '即時相機肖像',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Generate instant camera style portraits with customizable hairstyles',
@@ -301,6 +313,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Glassmorphism Music Player Scene',
       zh: '玻璃擬態音樂播放器場景',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Place subject in atmospheric background with music UI overlay',
@@ -320,6 +333,7 @@ export const prompts: Prompt[] = [
     title: {
       en: '2x2 Grid Variations',
       zh: '2x2 網格變化',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Create four style variations in a 2x2 grid',
@@ -339,6 +353,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Glass Neuron Cathedral',
       zh: '玻璃神經元大教堂',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Surreal cathedral made of translucent glass neurons',
@@ -358,6 +373,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Photo Colorization',
       zh: '照片上色',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Add realistic colors to black and white photos',
@@ -377,6 +393,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'White Background Removal',
       zh: '白色背景移除',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Replace background with pure white',
@@ -396,6 +413,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Pixel Art Split Portrait',
       zh: '像素藝術分割肖像',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Split portrait: 8-bit pixel art vs. photorealistic',
@@ -415,6 +433,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Portrait with Oversized Props',
       zh: '帶超大道具的肖像',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Full-body portrait with props and studio setting',
@@ -434,6 +453,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Day of the Dead Costume',
       zh: '亡靈節服裝',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Cultural costume transformation with authentic styling',
@@ -453,6 +473,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Dark Angel Transformation',
       zh: '黑暗天使轉換',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Gothic fantasy character transformation',
@@ -472,6 +493,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Halloween Pumpkin Costume',
       zh: '萬聖節南瓜服裝',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Festive seasonal costume design for family-appropriate use',
@@ -491,6 +513,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Creative Ad with Real Object and Hand-Drawn Doodle',
       zh: '創意廣告 with Real Object and Hand-Drawn Doodle',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Creative Ad with Real Object and Hand-Drawn Doodle - Created by @azed_ai(https://x.com/azed_ai',
@@ -511,6 +534,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Black and White Portrait Art',
       zh: 'Black and White 肖像 藝術',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Black and White Portrait Art - Created by @ZHO_ZHO_ZHO(https://x.com/ZHO_ZHO_ZHO',
@@ -531,6 +555,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Blurred Silhouette Behind Frosted Glass',
       zh: 'Blurred 剪影 Behind Frosted 玻璃',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Blurred Silhouette Behind Frosted Glass - Created by @umesh_ai(https://x.com/umesh_ai',
@@ -551,6 +576,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Cute and Cozy Knitted Doll',
       zh: 'Cute and Cozy Knitted 娃娃',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Cute and Cozy Knitted Doll - Created by @ZHO_ZHO_ZHO(https://x.com/ZHO_ZHO_ZHO',
@@ -571,6 +597,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Custom Anime Figure',
       zh: 'Custom Anime 公仔',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Custom Anime Figure - Created by @dotey(https://x.com/dotey',
@@ -591,6 +618,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Bobblehead Generator from Selfie',
       zh: 'Bobblehead Generator from 自拍',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Bobblehead Generator from Selfie - Created by @thisdudelikesAI(https://x.com/thisdudelikesAI',
@@ -611,6 +639,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Three Animals Selfie at Landmark',
       zh: 'Three 動物 自拍 at Landmark',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Three Animals Selfie at Landmark - Created by @berryxia_ai(https://x.com/berryxia_ai',
@@ -631,6 +660,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Glass Retexturing',
       zh: '玻璃 重新貼圖',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Glass Retexturing - Created by @egeberkina(https://x.com/egeberkina',
@@ -651,6 +681,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Perspective 3D Pop-Out Effect',
       zh: 'Perspective 3D 彈出 效果',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Perspective 3D Pop-Out Effect - Created by @ZHO_ZHO_ZHO(https://x.com/ZHO_ZHO_ZHO',
@@ -671,6 +702,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Google Maps to Ancient Treasure Map',
       zh: 'Google 地圖s to Ancient Treasure 地圖',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Google Maps to Ancient Treasure Map - Created by @umesh_ai(https://x.com/umesh_ai',
@@ -691,6 +723,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Branded Mechanical Keycaps',
       zh: 'Branded Mechanical 鍵帽',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Branded Mechanical Keycaps - Created by @egeberkina(https://x.com/egeberkina',
@@ -711,6 +744,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Chrome Emoji Pin',
       zh: 'Chrome Emoji 徽章',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Chrome Emoji Pin - Created by @egeberkina(https://x.com/egeberkina',
@@ -731,6 +765,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Children\'s Coloring Page Illustration (with Color Reference)',
       zh: 'Children\'s 著色頁 插圖 (with Color Reference)',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Children\'s Coloring Page Illustration (with Color Reference) - Created by @dotey(https://x.com/dotey',
@@ -751,6 +786,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Integrating Word Meaning into Letters',
       zh: 'Integrating Word Meaning into 字母',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Integrating Word Meaning into Letters - Created by @dotey(https://x.com/dotey',
@@ -771,6 +807,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Double Exposure',
       zh: '雙重曝光',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Double Exposure - Created by rezzycheck (Sora',
@@ -791,6 +828,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Surreal Interaction Scene',
       zh: 'Surreal Interaction 場景',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Surreal Interaction Scene - Created by @umesh_ai(https://x.com/umesh_ai',
@@ -811,6 +849,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Animal Silicone Wrist Rest',
       zh: 'Animal Sil圖標e 腕托',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Animal Silicone Wrist Rest - Created by @ZHO_ZHO_ZHO(https://x.com/ZHO_ZHO_ZHO',
@@ -831,6 +870,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Glowing Lines Anatomy Diagram',
       zh: 'Glowing Lines Anatomy 圖表',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Glowing Lines Anatomy Diagram - Created by @umesh_ai(https://x.com/umesh_ai',
@@ -851,6 +891,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Signature City Weather Forecast',
       zh: 'Signature City 天氣 預報',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Signature City Weather Forecast - Created by @dotey(https://x.com/dotey',
@@ -871,6 +912,7 @@ export const prompts: Prompt[] = [
     title: {
       en: '3D Translucent Glass Transformation',
       zh: '3D Translucent 玻璃 轉換',
+    sourceId: 'nanobana',
     },
     description: {
       en: '3D Translucent Glass Transformation - Created by @azed_ai(https://x.com/azed_ai',
@@ -891,6 +933,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Code Style Business Card',
       zh: 'Code Style 名片',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Code Style Business Card - Created by @umesh_ai(https://x.com/umesh_ai',
@@ -911,6 +954,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Lego Cityscape (Shanghai Bund)',
       zh: '樂高 城市景觀 (Shanghai Bund)',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Lego Cityscape (Shanghai Bund) - Created by @dotey(https://x.com/dotey',
@@ -931,6 +975,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Glass Retexturing',
       zh: '玻璃 重新貼圖',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Glass Retexturing - Created by @egeberkina(https://x.com/egeberkina',
@@ -951,6 +996,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Story Scene in Crystal Ball',
       zh: 'Story 場景 in 水晶球',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Story Scene in Crystal Ball - Created by @dotey(https://x.com/dotey',
@@ -971,6 +1017,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Nostalgic Anime Film Poster',
       zh: 'Nostalgic Anime Film 海報',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Nostalgic Anime Film Poster - Created by photis (Sora',
@@ -991,6 +1038,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Social Media Frame Integration',
       zh: 'Social Media 框架 Integration',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Social Media Frame Integration - Created by @dotey(https://x.com/dotey',
@@ -1011,6 +1059,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Creative Logo Shaped Bookshelf',
       zh: 'Creative Logo Shaped 書架',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Creative Logo Shaped Bookshelf - Created by @umesh_ai(https://x.com/umesh_ai',
@@ -1031,6 +1080,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Cute Chibi Keychain',
       zh: 'Cute Q版 鑰匙圈',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Cute Chibi Keychain - Created by @azed_ai(https://x.com/azed_ai',
@@ -1051,6 +1101,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Gold Pendant Necklace',
       zh: 'Gold Pendant 項鍊',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Gold Pendant Necklace - Created by @azed_ai(https://x.com/azed_ai',
@@ -1071,6 +1122,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Miniature Cyberpunk Tilt-Shift Landscape',
       zh: 'Miniature Cyberpunk Tilt-Shift 景觀',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Miniature Cyberpunk Tilt-Shift Landscape - Created by terry623(https://github.com/terry623',
@@ -1091,6 +1143,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Original Pokemon Creation',
       zh: 'Original 寶可夢 Creation',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Original Pokemon Creation - Created by @Anima_Labs(https://x.com/Anima_Labs',
@@ -1111,6 +1164,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Silhouette Art',
       zh: '剪影 藝術',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Silhouette Art - Created by @umesh_ai(https://x.com/umesh_ai',
@@ -1131,6 +1185,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Futuristic Logo Trading Card',
       zh: 'Futuristic Logo 交易卡',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Futuristic Logo Trading Card - Created by @hewarsaber(https://x.com/hewarsaber',
@@ -1151,6 +1206,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Ultra-realistic 3D Game',
       zh: 'Ultra-realistic 3D 遊戲',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Ultra-realistic 3D Game - Created by @ZHO_ZHO_ZHO(https://x.com/ZHO_ZHO_ZHO',
@@ -1171,6 +1227,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Creative Silk Universe',
       zh: 'Creative Silk 宇宙',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Creative Silk Universe - Created by @ZHO_ZHO_ZHO(https://x.com/ZHO_ZHO_ZHO',
@@ -1191,6 +1248,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Surreal Underwater Scene Popsicle',
       zh: 'Surreal Underwater 場景 冰棒',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Surreal Underwater Scene Popsicle - Created by @madpencil_(https://x.com/madpencil_',
@@ -1211,6 +1269,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Steampunk Mechanical Fish',
       zh: 'Steampunk Mechanical 魚',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Steampunk Mechanical Fish - Created by @f-is-h(https://github.com/f-is-h',
@@ -1231,6 +1290,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Emoji Cream Popsicle',
       zh: 'Emoji Cream 冰棒',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Emoji Cream Popsicle - Created by @ZHO_ZHO_ZHO(https://x.com/ZHO_ZHO_ZHO',
@@ -1251,6 +1311,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Kawaii Enamel Pin',
       zh: 'Kawaii 琺瑯 徽章',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Kawaii Enamel Pin - Created by @gnrlyxyz(https://x.com/gnrlyxyz',
@@ -1271,6 +1332,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Fake Tweet Screenshot (Einstein)',
       zh: 'Fake 推文 截圖 (Einstein)',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Fake Tweet Screenshot (Einstein) - Created by @egeberkina(https://x.com/egeberkina',
@@ -1291,6 +1353,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Emoji Tufted Rug',
       zh: 'Emoji Tufted 地毯',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Emoji Tufted Rug - Created by @gizakdag(https://x.com/gizakdag',
@@ -1311,6 +1374,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Colorful Vector Art Poster',
       zh: 'Colorful 向量 藝術 海報',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Colorful Vector Art Poster - Created by @michaelrabone(https://x.com/michaelrabone',
@@ -1331,6 +1395,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Cloud Art',
       zh: '雲 藝術',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Cloud Art - Created by @umesh_ai(https://x.com/umesh_ai',
@@ -1351,6 +1416,7 @@ export const prompts: Prompt[] = [
     title: {
       en: '8-Bit Pixel Icon',
       zh: '8-Bit Pixel 圖標',
+    sourceId: 'nanobana',
     },
     description: {
       en: '8-Bit Pixel Icon - Created by @egeberkina(https://x.com/egeberkina',
@@ -1371,6 +1437,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Miniature 3D Building',
       zh: 'Miniature 3D 建築',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Miniature 3D Building - Created by @dotey(https://x.com/dotey',
@@ -1391,6 +1458,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Cute Plant Planter',
       zh: 'Cute 植物 植物er',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Cute Plant Planter - Created by @azed_ai(https://x.com/azed_ai',
@@ -1411,6 +1479,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Extremely Ordinary iPhone Selfie',
       zh: 'Extremely Ordinary iPhone 自拍',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Extremely Ordinary iPhone Selfie - Created by @jiamimaodashu(https://x.com/jiamimaodashu',
@@ -1431,6 +1500,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Emoji Inflatable Cushion',
       zh: 'Emoji Inflatable 靠墊',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Emoji Inflatable Cushion - Created by @gizakdag(https://x.com/gizakdag',
@@ -1451,6 +1521,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Paper Craft Style Emoji Icon',
       zh: '紙藝 Style Emoji 圖標',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Paper Craft Style Emoji Icon - Created by @egeberkina(https://x.com/egeberkina',
@@ -1471,6 +1542,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Passport Entry Stamp',
       zh: 'Passport Entry 郵票',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Passport Entry Stamp - Created by @M_w14_(https://x.com/M_w14_',
@@ -1491,6 +1563,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Physical Destruction Effect Card (Lara Croft)',
       zh: 'Physical Destruction 效果 卡片 (Lara Croft)',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Physical Destruction Effect Card (Lara Croft) - Created by @op7418(https://x.com/op7418',
@@ -1511,6 +1584,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Fashion Magazine Cover Style',
       zh: 'Fashion 雜誌 封面 Style',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Fashion Magazine Cover Style - Created by @dotey(https://x.com/dotey',
@@ -1531,6 +1605,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Voxel Style 3D Icon Conversion',
       zh: '體素 Style 3D 圖標 Conversion',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Voxel Style 3D Icon Conversion - Created by @BrettFromDJ(https://x.com/BrettFromDJ',
@@ -1551,6 +1626,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'ESC Keycap Miniature Diorama',
       zh: 'ESC Keycap Miniature 場景模型',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'ESC Keycap Miniature Diorama - Created by @egeberkina(https://x.com/egeberkina',
@@ -1571,6 +1647,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Happy Capsule Creation',
       zh: 'Happy 膠囊 Creation',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Happy Capsule Creation - Created by @ZHO_ZHO_ZHO(https://x.com/ZHO_ZHO_ZHO',
@@ -1591,6 +1668,7 @@ export const prompts: Prompt[] = [
     title: {
       en: '3D Chibi-style University Anthropomorphic Mascot',
       zh: '3D Q版-style University Anthropomorphic Mascot',
+    sourceId: 'nanobana',
     },
     description: {
       en: '3D Chibi-style University Anthropomorphic Mascot - Created by @dotey(https://x.com/dotey',
@@ -1611,6 +1689,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'RPG-Style Character Card Creation',
       zh: 'RPG-Style Character 卡片 Creation',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'RPG-Style Character Card Creation - Created by @berryxia_ai(https://x.com/berryxia_ai',
@@ -1631,6 +1710,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Cute Chibi Matryoshka Dolls (Girl with a Pearl Earring)',
       zh: 'Cute Q版 套娃 娃娃s (Girl with a Pearl Earring)',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Cute Chibi Matryoshka Dolls (Girl with a Pearl Earring) - Created by @ZHO_ZHO_ZHO(https://x.com/ZHO_ZHO_ZHO',
@@ -1651,6 +1731,7 @@ export const prompts: Prompt[] = [
     title: {
       en: '3D Q-version Couple Snow Globe',
       zh: '3D Q-version Couple 雪花球',
+    sourceId: 'nanobana',
     },
     description: {
       en: '3D Q-version Couple Snow Globe - Created by @balconychy(https://x.com/balconychy',
@@ -1671,6 +1752,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Miniature Three-dimensional Scene Presentation',
       zh: 'Miniature Three-dimensional 場景 Presentation',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Miniature Three-dimensional Scene Presentation - Created by @dotey(https://x.com/dotey',
@@ -1691,6 +1773,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Japanese-style Two-Panel Manga (Angry Girl President)',
       zh: 'Japanese-style Two-Panel 漫畫 (Angry Girl President)',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Japanese-style Two-Panel Manga (Angry Girl President) - Created by @hellokaton(https://x.com/hellokaton',
@@ -1711,6 +1794,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Fantasy Cartoon Illustration',
       zh: 'Fantasy C藝術oon 插圖',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Fantasy Cartoon Illustration - Created by @dotey(https://x.com/dotey',
@@ -1731,6 +1815,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Hand-drawn Infographic Card',
       zh: 'Hand-drawn 資訊圖 卡片',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Hand-drawn Infographic Card - Created by @dotey(https://x.com/dotey',
@@ -1751,6 +1836,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Pastel Power 3D ADS',
       zh: 'Pastel Power 3D ADS',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Pastel Power 3D ADS - Created by @aziz4ai(https://x.com/aziz4ai',
@@ -1771,6 +1857,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Minimalist 3D Illustration (Markdown Format)',
       zh: '極簡 3D 插圖 (Markdown Format)',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Minimalist 3D Illustration (Markdown Format) - Created by @dotey(https://x.com/dotey',
@@ -1791,6 +1878,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Fluffy Jack-o\'-lantern',
       zh: 'Fluffy Jack-o\'-lantern',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Fluffy Jack-o\'-lantern - Created by gizakdag(https://x.com/gizakdag',
@@ -1811,6 +1899,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Hand-drawn Infographic Card (Cognition)',
       zh: 'Hand-drawn 資訊圖 卡片 (Cognition)',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Hand-drawn Infographic Card (Cognition) - Created by @dotey(https://x.com/dotey',
@@ -1831,6 +1920,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Family Wedding Photo (Q-version)',
       zh: 'Family 婚禮 Photo (Q-version)',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Family Wedding Photo (Q-version) - Created by @balconychy(https://x.com/balconychy',
@@ -1851,6 +1941,7 @@ export const prompts: Prompt[] = [
     title: {
       en: '3D Papercraft Pop-up Book',
       zh: '3D Papercraft Pop-up Book',
+    sourceId: 'nanobana',
     },
     description: {
       en: '3D Papercraft Pop-up Book - Created by @dotey(https://x.com/dotey',
@@ -1871,6 +1962,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Anime Sticker Collection',
       zh: 'Anime Sticker Collection',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Anime Sticker Collection - Created by @richardchang(https://x.com/richardchang',
@@ -1891,6 +1983,7 @@ export const prompts: Prompt[] = [
     title: {
       en: '35mm Film Style Flying Island',
       zh: '35mm Film Style Flying Island',
+    sourceId: 'nanobana',
     },
     description: {
       en: '35mm Film Style Flying Island - Created by @dotey(https://x.com/dotey',
@@ -1911,6 +2004,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Famous Painting Character OOTD',
       zh: 'Famous Painting Character OOTD',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Famous Painting Character OOTD - Created by @ZHO_ZHO_ZHO(https://x.com/ZHO_ZHO_ZHO',
@@ -1931,6 +2025,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Flat Sticker Design',
       zh: 'Flat Sticker 設計',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Flat Sticker Design - Created by @ZHO_ZHO_ZHO(https://x.com/ZHO_ZHO_ZHO',
@@ -1951,6 +2046,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Q-version Emoji Sticker Pack Creation',
       zh: 'Q-version Emoji Sticker Pack Creation',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Q-version Emoji Sticker Pack Creation - Created by @dotey(https://x.com/dotey',
@@ -1971,6 +2067,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Famous Painting Character Cereal Ad',
       zh: 'Famous Painting Character Cereal Ad',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Famous Painting Character Cereal Ad - Created by @ZHO_ZHO_ZHO(https://x.com/ZHO_ZHO_ZHO',
@@ -1991,6 +2088,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Minimalist 3D Illustration',
       zh: '極簡 3D 插圖',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Minimalist 3D Illustration - Created by @0xdlk(https://x.com/0xdlk',
@@ -2011,6 +2109,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Funko Pop Figure Creation',
       zh: 'Funko Pop 公仔 Creation',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Funko Pop Figure Creation - Created by @dotey(https://x.com/dotey',
@@ -2031,6 +2130,7 @@ export const prompts: Prompt[] = [
     title: {
       en: '"Titanic" Pose Parody',
       zh: '"Titanic" Pose Parody',
+    sourceId: 'nanobana',
     },
     description: {
       en: '"Titanic" Pose Parody - Created by @balconychy(https://x.com/balconychy',
@@ -2051,6 +2151,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Xiaohongshu Cover Image',
       zh: 'Xiaohongshu 封面 Image',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Xiaohongshu Cover Image - Created by @balconychy(https://x.com/balconychy',
@@ -2071,6 +2172,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Chibi Character Sticker Pack',
       zh: 'Q版 Character Sticker Pack',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Chibi Character Sticker Pack - Created by @leon_yuan2001(https://x.com/leon_yuan2001',
@@ -2091,6 +2193,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Action Figure and Real Person in the Same Frame',
       zh: 'Action 公仔 and Real Person in the Same 框架',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Action Figure and Real Person in the Same Frame - Created by @dotey(https://x.com/dotey',
@@ -2111,6 +2214,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Country Diorama in a Toy Box',
       zh: 'Country 場景模型 in a Toy Box',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Country Diorama in a Toy Box - Created by @TheRelianceAI(https://x.com/TheRelianceAI',
@@ -2131,6 +2235,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Pixar 3D Style',
       zh: 'Pixar 3D Style',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Pixar 3D Style - Created by AnimeAI(https://animeai.online',
@@ -2151,6 +2256,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Retro CRT Computer Boot Screen',
       zh: 'Retro CRT Computer Boot Screen',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Retro CRT Computer Boot Screen - Created by @Gdgtify(https://x.com/Gdgtify',
@@ -2171,6 +2277,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Anime-style Badge',
       zh: 'Anime-style Badge',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Anime-style Badge - Created by @Alittlefatwhale(https://x.com/Alittlefatwhale',
@@ -2191,6 +2298,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Satirical Poster Generation',
       zh: 'Satirical 海報 Generation',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Satirical Poster Generation - Created by @ZHO_ZHO_ZHO(https://x.com/ZHO_ZHO_ZHO',
@@ -2211,6 +2319,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'One Piece Themed Figure Creation',
       zh: 'One Piece Themed 公仔 Creation',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'One Piece Themed Figure Creation - Created by @dotey(https://x.com/dotey',
@@ -2231,6 +2340,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Photo to 3D Q-version Style',
       zh: 'Photo to 3D Q-version Style',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Photo to 3D Q-version Style - Created by @dotey(https://x.com/dotey',
@@ -2251,6 +2361,7 @@ export const prompts: Prompt[] = [
     title: {
       en: '3D Couple Jewelry Box Figurine',
       zh: '3D Couple Jewelry Box Figurine',
+    sourceId: 'nanobana',
     },
     description: {
       en: '3D Couple Jewelry Box Figurine - Created by @dotey(https://x.com/dotey',
@@ -2271,6 +2382,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'PS2 Game Cover (GTA x Shrek)',
       zh: 'PS2 遊戲 封面 (GTA x Shrek)',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'PS2 Game Cover (GTA x Shrek) - Created by @dotey(https://x.com/dotey',
@@ -2291,6 +2403,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Satirical Cartoon Generation',
       zh: 'Satirical C藝術oon Generation',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Satirical Cartoon Generation - Created by @dotey(https://x.com/dotey',
@@ -2311,6 +2424,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Minimalist Futurist Poster',
       zh: '極簡 Futurist 海報',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Minimalist Futurist Poster - Created by @ZHO_ZHO_ZHO(https://x.com/ZHO_ZHO_ZHO',
@@ -2331,6 +2445,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Lego Collectible Figure',
       zh: '樂高 Collectible 公仔',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Lego Collectible Figure - Created by @ZHO_ZHO_ZHO(https://x.com/ZHO_ZHO_ZHO',
@@ -2351,6 +2466,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Personalized Room Design',
       zh: 'Personalized 房間 設計',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Personalized Room Design - Created by @ZHO_ZHO_ZHO(https://x.com/ZHO_ZHO_ZHO',
@@ -2371,6 +2487,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Character Stepping Through Portal',
       zh: 'Character Step徽章g Through 傳送門',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Character Stepping Through Portal - Created by @dotey(https://x.com/dotey',
@@ -2391,6 +2508,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Ghibli Style',
       zh: '吉卜力 Style',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Ghibli Style - Created by AnimeAI(https://animeai.online',
@@ -2411,6 +2529,7 @@ export const prompts: Prompt[] = [
     title: {
       en: '3D Chibi Chinese Wedding Scene',
       zh: '3D Q版 Chinese 婚禮 場景',
+    sourceId: 'nanobana',
     },
     description: {
       en: '3D Chibi Chinese Wedding Scene - Created by @balconychy(https://x.com/balconychy',
@@ -2431,6 +2550,7 @@ export const prompts: Prompt[] = [
     title: {
       en: 'Retro Style Promotional Poster',
       zh: 'Retro Style 宣傳 海報',
+    sourceId: 'nanobana',
     },
     description: {
       en: 'Retro Style Promotional Poster - Created by @dotey(https://x.com/dotey',
@@ -2451,6 +2571,7 @@ export const prompts: Prompt[] = [
     title: {
       en: '3D Polaroid Breakout Effect',
       zh: '3D 拍立得 Breakout 效果',
+    sourceId: 'nanobana',
     },
     description: {
       en: '3D Polaroid Breakout Effect - Created by @dotey(https://x.com/dotey',
@@ -2471,6 +2592,7 @@ export const prompts: Prompt[] = [
     title: {
       en: '3D Chibi Proposal Scene',
       zh: '3D Q版 求婚 場景',
+    sourceId: 'nanobana',
     },
     description: {
       en: '3D Chibi Proposal Scene - Created by @balconychy(https://x.com/balconychy',

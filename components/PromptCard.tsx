@@ -94,11 +94,14 @@ export default function PromptCard({ prompt, language }: PromptCardProps) {
 
         {/* Description */}
         <p className="text-sm mb-3 opacity-80">
-          {prompt.description[language]}
+          {(() => {
+            const desc = prompt.description[language];
+            // Remove " - Created by ..." or " - 由 ... 創建"
+            return desc
+              .replace(/ - Created by.*$/, '')
+              .replace(/ - 由.*創建$/, '');
+          })()}
         </p>
-
-        {/* Author Label */}
-
 
         {/* Tags */}
         <div className="flex flex-wrap gap-2 mb-4">
@@ -145,31 +148,47 @@ export default function PromptCard({ prompt, language }: PromptCardProps) {
           </div>
         </div>
 
-        {/* Author Label */}
-        {(source || prompt.description.en.includes('Created by')) && (
-          <div className="mb-4 flex justify-end">
-            <a
-              href={source?.url || '#'}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center gap-1.5 text-xs font-bold opacity-60 hover:opacity-100 transition-opacity"
-              title={source?.description?.[language] || source?.name}
-            >
-              <span>
-                {language === 'en' ? 'Source: ' : '來源：'}
-                {(() => {
-                  // Try to extract author from description
-                  const desc = prompt.description.en;
-                  const match = desc.match(/Created by (@[^\s(]+)/);
-                  if (match) {
-                    return `${source?.name} (${match[1]})`;
-                  }
-                  return source?.name || 'Unknown';
-                })()}
-              </span>
-            </a>
+        {/* Author & Source Label */}
+        <div className="mb-4 flex flex-col items-end gap-1 text-xs font-bold opacity-70">
+          {/* Author */}
+          <div>
+            {language === 'en' ? 'Author: ' : '作者：'}
+            {(() => {
+              // Try to extract author from description
+              const desc = prompt.description.en;
+              const match = desc.match(/Created by (@[^\s(]+)/);
+              if (match) {
+                return (
+                  <a
+                    href={`https://x.com/${match[1].replace('@', '')}`}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="hover:underline hover:text-accent"
+                  >
+                    {match[1]}
+                  </a>
+                );
+              }
+              return source?.name === 'nanobana' ? 'Nano Banana' : (source?.name || 'Unknown');
+            })()}
           </div>
-        )}
+
+          {/* Source */}
+          {source && (
+            <div>
+              {language === 'en' ? 'Source: ' : '來源：'}
+              <a
+                href={source.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:underline hover:text-accent"
+                title={source.description?.[language]}
+              >
+                {source.name}
+              </a>
+            </div>
+          )}
+        </div>
 
         {/* Action Buttons */}
         <div className="flex gap-2 mt-auto">

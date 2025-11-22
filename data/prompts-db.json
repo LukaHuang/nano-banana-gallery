@@ -3,7 +3,8 @@
     "id": "modern-poster-design",
     "title": {
       "en": "Modern Poster Design from Photo",
-      "zh": "照片轉現代海報設計"
+      "zh": "照片轉現代海報設計",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Transform photos into modern flat design posters with Y2K/acid aesthetics",
@@ -23,14 +24,15 @@
     ],
     "imageUrl": "https://pub-75de598aba1c45faa2b7c57c5f262f78.r2.dev/assets3/prompts-202511221026.webp",
     "sourceId": "nanobana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "photo-enhancement-upscaling",
     "title": {
       "en": "Photo Enhancement & Upscaling",
-      "zh": "照片增強與放大"
+      "zh": "照片增強與放大",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Professional portrait enhancement with detailed skin rendering",
@@ -49,14 +51,15 @@
       "Upscaling"
     ],
     "imageUrl": "https://pub-75de598aba1c45faa2b7c57c5f262f78.r2.dev/assets3/prompts-202511220957.webp",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "street-mural-anime",
     "title": {
       "en": "Street Mural with Girl & Rose Flowers",
-      "zh": "街頭壁畫：女孩與玫瑰花"
+      "zh": "街頭壁畫：女孩與玫瑰花",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Anime-style portrait integrated with realistic street mural setting",
@@ -75,14 +78,15 @@
       "Anime"
     ],
     "imageUrl": "https://pub-75de598aba1c45faa2b7c57c5f262f78.r2.dev/assets3/G6TbXGAWIAAFzPx.webp",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "cloud-relaxation-scene",
     "title": {
       "en": "Cloud Relaxation Scene",
-      "zh": "雲端放鬆場景"
+      "zh": "雲端放鬆場景",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Surreal scene composition with character placed in dreamy environment",
@@ -101,14 +105,15 @@
       "Surreal"
     ],
     "imageUrl": "https://pub-75de598aba1c45faa2b7c57c5f262f78.r2.dev/assets3/prompts-202511220951.webp",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "product-render-design",
     "title": {
       "en": "Product Render Design",
-      "zh": "產品渲染設計"
+      "zh": "產品渲染設計",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Technical product visualization from sketch specifications",
@@ -127,14 +132,15 @@
       "Industrial"
     ],
     "imageUrl": "https://pub-75de598aba1c45faa2b7c57c5f262f78.r2.dev/assets3/Group 1171274963.webp",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "aircraft-cross-section",
     "title": {
       "en": "Aircraft Cross-Section Technical Infographic",
-      "zh": "飛機橫斷面技術資訊圖"
+      "zh": "飛機橫斷面技術資訊圖",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Technical cutaway illustration with engineering annotations",
@@ -153,14 +159,15 @@
       "Infographic"
     ],
     "imageUrl": "https://pub-75de598aba1c45faa2b7c57c5f262f78.r2.dev/assets3/G6NhVanacAUJgrY.jpeg",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "comic-strip-story",
     "title": {
       "en": "Comic Strip Story (Zebra & Elephant)",
-      "zh": "連環畫故事（斑馬與大象）"
+      "zh": "連環畫故事（斑馬與大象）",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Multi-panel narrative illustration for young children",
@@ -179,14 +186,15 @@
       "Children"
     ],
     "imageUrl": "https://pub-75de598aba1c45faa2b7c57c5f262f78.r2.dev/assets3/prompts-202511220939.webp",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "camera-aperture-comparison",
     "title": {
       "en": "Camera Aperture Comparison Photography",
-      "zh": "相機光圈對比攝影"
+      "zh": "相機光圈對比攝影",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Comparative photography demonstrating aperture settings",
@@ -205,14 +213,15 @@
       "Technical"
     ],
     "imageUrl": "https://pub-75de598aba1c45faa2b7c57c5f262f78.r2.dev/assets3/prompts-202511220937.webp",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "fashion-glamour-portrait",
     "title": {
       "en": "Fashion Photography - Glamour Portrait",
-      "zh": "時尚攝影 - 魅力肖像"
+      "zh": "時尚攝影 - 魅力肖像",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "High-fashion glamour portrait with costume emphasis",
@@ -231,14 +240,15 @@
       "Glamour"
     ],
     "imageUrl": "https://pub-75de598aba1c45faa2b7c57c5f262f78.r2.dev/assets3/prompts-202511220930.webp",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "landmark-blueprint",
     "title": {
       "en": "Landmark Blueprint Infographic",
-      "zh": "地標藍圖資訊圖"
+      "zh": "地標藍圖資訊圖",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Educational architectural overlay combining photography and schematics",
@@ -257,14 +267,15 @@
       "Infographic"
     ],
     "imageUrl": "https://pub-75de598aba1c45faa2b7c57c5f262f78.r2.dev/assets3/prompts-20251122.webp",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "sketch-to-photo",
     "title": {
       "en": "Sketch to Photorealistic Anime",
-      "zh": "素描轉逼真動漫"
+      "zh": "素描轉逼真動漫",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Convert sketches into photorealistic anime scenes",
@@ -283,14 +294,15 @@
       "Photorealistic"
     ],
     "imageUrl": "https://pub-75de598aba1c45faa2b7c57c5f262f78.r2.dev/assets2/editimg-sketch-to-photo-1.webp",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "instant-camera",
     "title": {
       "en": "Instant Camera Portrait",
-      "zh": "即時相機肖像"
+      "zh": "即時相機肖像",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Generate instant camera style portraits with customizable hairstyles",
@@ -308,14 +320,15 @@
       "Photography Style"
     ],
     "imageUrl": "https://pub-75de598aba1c45faa2b7c57c5f262f78.r2.dev/assets3/from-mirror-pic-instant-camera-moment-this-ai-glow-up-is-v0-dv982cqnkqzf1.webp",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "glassmorphism-music",
     "title": {
       "en": "Glassmorphism Music Player Scene",
-      "zh": "玻璃擬態音樂播放器場景"
+      "zh": "玻璃擬態音樂播放器場景",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Place subject in atmospheric background with music UI overlay",
@@ -334,14 +347,15 @@
       "UI Design"
     ],
     "imageUrl": "https://pub-75de598aba1c45faa2b7c57c5f262f78.r2.dev/assets3/how-to-create-glassmorphism-music-player-effect-with-nano-v0-8jaiocua1uzf1.webp",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "grid-variations",
     "title": {
       "en": "2x2 Grid Variations",
-      "zh": "2x2 網格變化"
+      "zh": "2x2 網格變化",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Create four style variations in a 2x2 grid",
@@ -359,14 +373,15 @@
       "Variations"
     ],
     "imageUrl": "https://pub-75de598aba1c45faa2b7c57c5f262f78.r2.dev/assets2/steal-this-prompt-to-efficiently-explore-styles-with-nano-v0-yq9b2ff5a9zf1.webp",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "glass-neuron-cathedral",
     "title": {
       "en": "Glass Neuron Cathedral",
-      "zh": "玻璃神經元大教堂"
+      "zh": "玻璃神經元大教堂",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Surreal cathedral made of translucent glass neurons",
@@ -385,14 +400,15 @@
       "Architecture"
     ],
     "imageUrl": "https://pub-75de598aba1c45faa2b7c57c5f262f78.r2.dev/assets2/nanobananaprompt_2025-11-03.webp",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "photo-colorization",
     "title": {
       "en": "Photo Colorization",
-      "zh": "照片上色"
+      "zh": "照片上色",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Add realistic colors to black and white photos",
@@ -410,14 +426,15 @@
       "Colorization"
     ],
     "imageUrl": "https://pub-75de598aba1c45faa2b7c57c5f262f78.r2.dev/assets2/weinfowadksvm.webp",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "white-background",
     "title": {
       "en": "White Background Removal",
-      "zh": "白色背景移除"
+      "zh": "白色背景移除",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Replace background with pure white",
@@ -435,14 +452,15 @@
       "Product Photography"
     ],
     "imageUrl": "https://pub-75de598aba1c45faa2b7c57c5f262f78.r2.dev/assets2/Group%2077.webp",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "pixel-art-split",
     "title": {
       "en": "Pixel Art Split Portrait",
-      "zh": "像素藝術分割肖像"
+      "zh": "像素藝術分割肖像",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Split portrait: 8-bit pixel art vs. photorealistic",
@@ -461,14 +479,15 @@
       "Photorealistic"
     ],
     "imageUrl": "https://pub-75de598aba1c45faa2b7c57c5f262f78.r2.dev/assets2/nano-banana-the-pixel-1.jpg",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "portrait-with-props",
     "title": {
       "en": "Portrait with Oversized Props",
-      "zh": "帶超大道具的肖像"
+      "zh": "帶超大道具的肖像",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Full-body portrait with props and studio setting",
@@ -486,14 +505,15 @@
       "Studio"
     ],
     "imageUrl": "https://pub-75de598aba1c45faa2b7c57c5f262f78.r2.dev/assets2/nano-banana-the-ai-model-giving-creators-power-over-image-v0-vmt236xjh6yf1.webp",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "day-of-dead-costume",
     "title": {
       "en": "Day of the Dead Costume",
-      "zh": "亡靈節服裝"
+      "zh": "亡靈節服裝",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Cultural costume transformation with authentic styling",
@@ -512,14 +532,15 @@
       "Character"
     ],
     "imageUrl": "https://pub-75de598aba1c45faa2b7c57c5f262f78.r2.dev/assets3/nano-banana-prompts-9.webp",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "dark-angel-transformation",
     "title": {
       "en": "Dark Angel Transformation",
-      "zh": "黑暗天使轉換"
+      "zh": "黑暗天使轉換",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Gothic fantasy character transformation",
@@ -538,14 +559,15 @@
       "Fantasy"
     ],
     "imageUrl": "https://pub-75de598aba1c45faa2b7c57c5f262f78.r2.dev/assets3/nano-banana-prompts-8.webp",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "halloween-pumpkin-costume",
     "title": {
       "en": "Halloween Pumpkin Costume",
-      "zh": "萬聖節南瓜服裝"
+      "zh": "萬聖節南瓜服裝",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Festive seasonal costume design for family-appropriate use",
@@ -564,14 +586,15 @@
       "Family-Friendly"
     ],
     "imageUrl": "https://pub-75de598aba1c45faa2b7c57c5f262f78.r2.dev/assets3/nano-banana-prompts-7.webp",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-100-creative-ad-with-real-object-and-hand-drawn-doodle",
     "title": {
       "en": "Creative Ad with Real Object and Hand-Drawn Doodle",
-      "zh": "創意廣告 with Real Object and Hand-Drawn Doodle"
+      "zh": "創意廣告 with Real Object and Hand-Drawn Doodle",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Creative Ad with Real Object and Hand-Drawn Doodle - Created by @azed_ai(https://x.com/azed_ai",
@@ -588,14 +611,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-Bt055iW47OUqRDOh-K0gZ.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-99-black-and-white-portrait-art",
     "title": {
       "en": "Black and White Portrait Art",
-      "zh": "Black and White 肖像 藝術"
+      "zh": "Black and White 肖像 藝術",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Black and White Portrait Art - Created by @ZHO_ZHO_ZHO(https://x.com/ZHO_ZHO_ZHO",
@@ -612,14 +636,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-ameZsuCqj7Px_1-NLwLhj.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-98-blurred-silhouette-behind-frosted-glass",
     "title": {
       "en": "Blurred Silhouette Behind Frosted Glass",
-      "zh": "Blurred 剪影 Behind Frosted 玻璃"
+      "zh": "Blurred 剪影 Behind Frosted 玻璃",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Blurred Silhouette Behind Frosted Glass - Created by @umesh_ai(https://x.com/umesh_ai",
@@ -636,14 +661,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-pDsaB4o_oiNIjud_j5ypp.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-97-cute-and-cozy-knitted-doll",
     "title": {
       "en": "Cute and Cozy Knitted Doll",
-      "zh": "Cute and Cozy Knitted 娃娃"
+      "zh": "Cute and Cozy Knitted 娃娃",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Cute and Cozy Knitted Doll - Created by @ZHO_ZHO_ZHO(https://x.com/ZHO_ZHO_ZHO",
@@ -661,14 +687,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-FpVTUFWK2dhd1GSysOFdh.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-96-custom-anime-figure",
     "title": {
       "en": "Custom Anime Figure",
-      "zh": "Custom Anime 公仔"
+      "zh": "Custom Anime 公仔",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Custom Anime Figure - Created by @dotey(https://x.com/dotey",
@@ -687,14 +714,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-qVK6fm-fP8a4-LxpaN7Ji.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-95-bobblehead-generator-from-selfie",
     "title": {
       "en": "Bobblehead Generator from Selfie",
-      "zh": "Bobblehead Generator from 自拍"
+      "zh": "Bobblehead Generator from 自拍",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Bobblehead Generator from Selfie - Created by @thisdudelikesAI(https://x.com/thisdudelikesAI",
@@ -711,14 +739,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-eJzwap7e7KsSwJofY3ij8.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-94-three-animals-selfie-at-landmark",
     "title": {
       "en": "Three Animals Selfie at Landmark",
-      "zh": "Three 動物 自拍 at Landmark"
+      "zh": "Three 動物 自拍 at Landmark",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Three Animals Selfie at Landmark - Created by @berryxia_ai(https://x.com/berryxia_ai",
@@ -735,14 +764,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-yAd6PqQMt86VX6Nh1QFCl.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-93-glass-retexturing",
     "title": {
       "en": "Glass Retexturing",
-      "zh": "玻璃 重新貼圖"
+      "zh": "玻璃 重新貼圖",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Glass Retexturing - Created by @egeberkina(https://x.com/egeberkina",
@@ -760,14 +790,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-QCdSAN2IyigyHVVplpXGL.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-92-perspective-3d-pop-out-effect",
     "title": {
       "en": "Perspective 3D Pop-Out Effect",
-      "zh": "Perspective 3D 彈出 效果"
+      "zh": "Perspective 3D 彈出 效果",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Perspective 3D Pop-Out Effect - Created by @ZHO_ZHO_ZHO(https://x.com/ZHO_ZHO_ZHO",
@@ -787,14 +818,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-ZwX4XJBz5BqMcvOXYcen0.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-91-google-maps-to-ancient-treasure-map",
     "title": {
       "en": "Google Maps to Ancient Treasure Map",
-      "zh": "Google 地圖s to Ancient Treasure 地圖"
+      "zh": "Google 地圖s to Ancient Treasure 地圖",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Google Maps to Ancient Treasure Map - Created by @umesh_ai(https://x.com/umesh_ai",
@@ -811,14 +843,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-jPX65pFLBMTvzVaCgSjlz.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-90-branded-mechanical-keycaps",
     "title": {
       "en": "Branded Mechanical Keycaps",
-      "zh": "Branded Mechanical 鍵帽"
+      "zh": "Branded Mechanical 鍵帽",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Branded Mechanical Keycaps - Created by @egeberkina(https://x.com/egeberkina",
@@ -835,14 +868,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-q-57zaITSb7d5Y21Ya6Rk.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-89-chrome-emoji-pin",
     "title": {
       "en": "Chrome Emoji Pin",
-      "zh": "Chrome Emoji 徽章"
+      "zh": "Chrome Emoji 徽章",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Chrome Emoji Pin - Created by @egeberkina(https://x.com/egeberkina",
@@ -861,14 +895,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry--QWzIYAtO7KC3HthhsjH0.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-88-children-s-coloring-page-illustration-with-color-reference-",
     "title": {
       "en": "Children's Coloring Page Illustration (with Color Reference)",
-      "zh": "Children's 著色頁 插圖 (with Color Reference)"
+      "zh": "Children's 著色頁 插圖 (with Color Reference)",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Children's Coloring Page Illustration (with Color Reference) - Created by @dotey(https://x.com/dotey",
@@ -885,14 +920,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-vVoVQk6rVQBF2bGUMGfOr.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-87-integrating-word-meaning-into-letters",
     "title": {
       "en": "Integrating Word Meaning into Letters",
-      "zh": "Integrating Word Meaning into 字母"
+      "zh": "Integrating Word Meaning into 字母",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Integrating Word Meaning into Letters - Created by @dotey(https://x.com/dotey",
@@ -909,14 +945,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-dk3V0sLLTD9fQW0DM9pxn.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-86-double-exposure",
     "title": {
       "en": "Double Exposure",
-      "zh": "雙重曝光"
+      "zh": "雙重曝光",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Double Exposure - Created by rezzycheck (Sora",
@@ -933,14 +970,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-uWAtByJ544cdR5nBjMM3H.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-85-surreal-interaction-scene",
     "title": {
       "en": "Surreal Interaction Scene",
-      "zh": "Surreal Interaction 場景"
+      "zh": "Surreal Interaction 場景",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Surreal Interaction Scene - Created by @umesh_ai(https://x.com/umesh_ai",
@@ -957,14 +995,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-nvAEqaxvslDn-p2hCKbHN.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-84-animal-silicone-wrist-rest",
     "title": {
       "en": "Animal Silicone Wrist Rest",
-      "zh": "Animal Sil圖標e 腕托"
+      "zh": "Animal Sil圖標e 腕托",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Animal Silicone Wrist Rest - Created by @ZHO_ZHO_ZHO(https://x.com/ZHO_ZHO_ZHO",
@@ -983,14 +1022,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-NVse4zVhgYoKSGvN__y-m.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-83-glowing-lines-anatomy-diagram",
     "title": {
       "en": "Glowing Lines Anatomy Diagram",
-      "zh": "Glowing Lines Anatomy 圖表"
+      "zh": "Glowing Lines Anatomy 圖表",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Glowing Lines Anatomy Diagram - Created by @umesh_ai(https://x.com/umesh_ai",
@@ -1007,14 +1047,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-ukn_aztzA4yTNGNF1QCTl.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-82-signature-city-weather-forecast",
     "title": {
       "en": "Signature City Weather Forecast",
-      "zh": "Signature City 天氣 預報"
+      "zh": "Signature City 天氣 預報",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Signature City Weather Forecast - Created by @dotey(https://x.com/dotey",
@@ -1031,14 +1072,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-xl9zEu7r3VDXO_OZGM1a7.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-81-3d-translucent-glass-transformation",
     "title": {
       "en": "3D Translucent Glass Transformation",
-      "zh": "3D Translucent 玻璃 轉換"
+      "zh": "3D Translucent 玻璃 轉換",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "3D Translucent Glass Transformation - Created by @azed_ai(https://x.com/azed_ai",
@@ -1056,14 +1098,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-_aDii7pr31c7nBC30esLt.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-80-code-style-business-card",
     "title": {
       "en": "Code Style Business Card",
-      "zh": "Code Style 名片"
+      "zh": "Code Style 名片",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Code Style Business Card - Created by @umesh_ai(https://x.com/umesh_ai",
@@ -1080,14 +1123,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-Y5nxZct49r5jpDJgeziht.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-79-lego-cityscape-shanghai-bund-",
     "title": {
       "en": "Lego Cityscape (Shanghai Bund)",
-      "zh": "樂高 城市景觀 (Shanghai Bund)"
+      "zh": "樂高 城市景觀 (Shanghai Bund)",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Lego Cityscape (Shanghai Bund) - Created by @dotey(https://x.com/dotey",
@@ -1104,14 +1148,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-Nc-vAhaIHqHisicziRUQ5.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-78-glass-retexturing",
     "title": {
       "en": "Glass Retexturing",
-      "zh": "玻璃 重新貼圖"
+      "zh": "玻璃 重新貼圖",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Glass Retexturing - Created by @egeberkina(https://x.com/egeberkina",
@@ -1128,14 +1173,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-jmGRjdDLKOu0Lwb-gg2Se.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-77-story-scene-in-crystal-ball",
     "title": {
       "en": "Story Scene in Crystal Ball",
-      "zh": "Story 場景 in 水晶球"
+      "zh": "Story 場景 in 水晶球",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Story Scene in Crystal Ball - Created by @dotey(https://x.com/dotey",
@@ -1156,14 +1202,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-tcPJYJqWhSiLBt-KMnuyD.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-75-social-media-frame-integration",
     "title": {
       "en": "Social Media Frame Integration",
-      "zh": "Social Media 框架 Integration"
+      "zh": "Social Media 框架 Integration",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Social Media Frame Integration - Created by @dotey(https://x.com/dotey",
@@ -1182,14 +1229,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-8kfas56Jc3-f15O89pzKN.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-74-creative-logo-shaped-bookshelf",
     "title": {
       "en": "Creative Logo Shaped Bookshelf",
-      "zh": "Creative Logo Shaped 書架"
+      "zh": "Creative Logo Shaped 書架",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Creative Logo Shaped Bookshelf - Created by @umesh_ai(https://x.com/umesh_ai",
@@ -1206,14 +1254,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-h3g_ajtU5hs70Yy0tskiN.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-73-cute-chibi-keychain",
     "title": {
       "en": "Cute Chibi Keychain",
-      "zh": "Cute Q版 鑰匙圈"
+      "zh": "Cute Q版 鑰匙圈",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Cute Chibi Keychain - Created by @azed_ai(https://x.com/azed_ai",
@@ -1230,14 +1279,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-BOHwhmk-H-LxQ398epkPp.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-72-gold-pendant-necklace",
     "title": {
       "en": "Gold Pendant Necklace",
-      "zh": "Gold Pendant 項鍊"
+      "zh": "Gold Pendant 項鍊",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Gold Pendant Necklace - Created by @azed_ai(https://x.com/azed_ai",
@@ -1254,14 +1304,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-jyQlvtvYcyYWu61X_cWk6.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-71-miniature-cyberpunk-tilt-shift-landscape",
     "title": {
       "en": "Miniature Cyberpunk Tilt-Shift Landscape",
-      "zh": "Miniature Cyberpunk Tilt-Shift 景觀"
+      "zh": "Miniature Cyberpunk Tilt-Shift 景觀",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Miniature Cyberpunk Tilt-Shift Landscape - Created by terry623(https://github.com/terry623",
@@ -1278,14 +1329,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-d4mtCy2DuZk2bkXiDMoOS.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-70-original-pokemon-creation",
     "title": {
       "en": "Original Pokemon Creation",
-      "zh": "Original 寶可夢 Creation"
+      "zh": "Original 寶可夢 Creation",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Original Pokemon Creation - Created by @Anima_Labs(https://x.com/Anima_Labs",
@@ -1306,14 +1358,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-0fyYo7d2Vc3ufHnXU0fxh.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-69-silhouette-art",
     "title": {
       "en": "Silhouette Art",
-      "zh": "剪影 藝術"
+      "zh": "剪影 藝術",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Silhouette Art - Created by @umesh_ai(https://x.com/umesh_ai",
@@ -1330,14 +1383,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-WnFEERTJJbnDpcjKdb35U.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-68-futuristic-logo-trading-card",
     "title": {
       "en": "Futuristic Logo Trading Card",
-      "zh": "Futuristic Logo 交易卡"
+      "zh": "Futuristic Logo 交易卡",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Futuristic Logo Trading Card - Created by @hewarsaber(https://x.com/hewarsaber",
@@ -1355,14 +1409,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-QGCQ1jjuNoKYgwFDo61qW.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-67-ultra-realistic-3d-game",
     "title": {
       "en": "Ultra-realistic 3D Game",
-      "zh": "Ultra-realistic 3D 遊戲"
+      "zh": "Ultra-realistic 3D 遊戲",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Ultra-realistic 3D Game - Created by @ZHO_ZHO_ZHO(https://x.com/ZHO_ZHO_ZHO",
@@ -1381,14 +1436,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-rlprrmpgrWYxzcGFG6cN5.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-65-surreal-underwater-scene-popsicle",
     "title": {
       "en": "Surreal Underwater Scene Popsicle",
-      "zh": "Surreal Underwater 場景 冰棒"
+      "zh": "Surreal Underwater 場景 冰棒",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Surreal Underwater Scene Popsicle - Created by @madpencil_(https://x.com/madpencil_",
@@ -1406,14 +1462,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-sleMUJG0_smfYhUJ0x9zk.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-64-steampunk-mechanical-fish",
     "title": {
       "en": "Steampunk Mechanical Fish",
-      "zh": "Steampunk Mechanical 魚"
+      "zh": "Steampunk Mechanical 魚",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Steampunk Mechanical Fish - Created by @f-is-h(https://github.com/f-is-h",
@@ -1430,14 +1487,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-NwKHSkobGZuQuaTfzYnkk.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-63-emoji-cream-popsicle",
     "title": {
       "en": "Emoji Cream Popsicle",
-      "zh": "Emoji Cream 冰棒"
+      "zh": "Emoji Cream 冰棒",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Emoji Cream Popsicle - Created by @ZHO_ZHO_ZHO(https://x.com/ZHO_ZHO_ZHO",
@@ -1455,14 +1513,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-ofHrVK4oclwpJayzpx6C5.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-62-kawaii-enamel-pin",
     "title": {
       "en": "Kawaii Enamel Pin",
-      "zh": "Kawaii 琺瑯 徽章"
+      "zh": "Kawaii 琺瑯 徽章",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Kawaii Enamel Pin - Created by @gnrlyxyz(https://x.com/gnrlyxyz",
@@ -1479,14 +1538,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-BZ4bE3tr5QKkaogEl_XQI.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-61-fake-tweet-screenshot-einstein-",
     "title": {
       "en": "Fake Tweet Screenshot (Einstein)",
-      "zh": "Fake 推文 截圖 (Einstein)"
+      "zh": "Fake 推文 截圖 (Einstein)",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Fake Tweet Screenshot (Einstein) - Created by @egeberkina(https://x.com/egeberkina",
@@ -1503,14 +1563,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-5NAPAcMNSLl7j8PuX5mnt.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-60-emoji-tufted-rug",
     "title": {
       "en": "Emoji Tufted Rug",
-      "zh": "Emoji Tufted 地毯"
+      "zh": "Emoji Tufted 地毯",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Emoji Tufted Rug - Created by @gizakdag(https://x.com/gizakdag",
@@ -1527,14 +1588,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-g1eDis0d0iaIEKLnkUSaa.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-59-colorful-vector-art-poster",
     "title": {
       "en": "Colorful Vector Art Poster",
-      "zh": "Colorful 向量 藝術 海報"
+      "zh": "Colorful 向量 藝術 海報",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Colorful Vector Art Poster - Created by @michaelrabone(https://x.com/michaelrabone",
@@ -1551,14 +1613,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-4z8yN-EVHRBthTnpCB8Ka.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-58-cloud-art",
     "title": {
       "en": "Cloud Art",
-      "zh": "雲 藝術"
+      "zh": "雲 藝術",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Cloud Art - Created by @umesh_ai(https://x.com/umesh_ai",
@@ -1575,14 +1638,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-ufKQRU-0zXXlACt_A_DNd.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-57-8-bit-pixel-icon",
     "title": {
       "en": "8-Bit Pixel Icon",
-      "zh": "8-Bit Pixel 圖標"
+      "zh": "8-Bit Pixel 圖標",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "8-Bit Pixel Icon - Created by @egeberkina(https://x.com/egeberkina",
@@ -1600,14 +1664,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-H0E8EqQ10jrbe0d8q7137.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-56-miniature-3d-building",
     "title": {
       "en": "Miniature 3D Building",
-      "zh": "Miniature 3D 建築"
+      "zh": "Miniature 3D 建築",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Miniature 3D Building - Created by @dotey(https://x.com/dotey",
@@ -1627,14 +1692,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-0bQpHIpimYLLrSJ8qe6C6.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-55-cute-plant-planter",
     "title": {
       "en": "Cute Plant Planter",
-      "zh": "Cute 植物 植物er"
+      "zh": "Cute 植物 植物er",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Cute Plant Planter - Created by @azed_ai(https://x.com/azed_ai",
@@ -1651,14 +1717,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-KMvfZkLFuvMEzCzBT8ywr.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-54-extremely-ordinary-iphone-selfie",
     "title": {
       "en": "Extremely Ordinary iPhone Selfie",
-      "zh": "Extremely Ordinary iPhone 自拍"
+      "zh": "Extremely Ordinary iPhone 自拍",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Extremely Ordinary iPhone Selfie - Created by @jiamimaodashu(https://x.com/jiamimaodashu",
@@ -1675,14 +1742,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-REfe_PfgYfz67f5liafKu.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-53-emoji-inflatable-cushion",
     "title": {
       "en": "Emoji Inflatable Cushion",
-      "zh": "Emoji Inflatable 靠墊"
+      "zh": "Emoji Inflatable 靠墊",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Emoji Inflatable Cushion - Created by @gizakdag(https://x.com/gizakdag",
@@ -1700,14 +1768,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-0QNwJ8orXTqLGNNtoM2Uq.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-52-paper-craft-style-emoji-icon",
     "title": {
       "en": "Paper Craft Style Emoji Icon",
-      "zh": "紙藝 Style Emoji 圖標"
+      "zh": "紙藝 Style Emoji 圖標",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Paper Craft Style Emoji Icon - Created by @egeberkina(https://x.com/egeberkina",
@@ -1724,14 +1793,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-SoZP2Zw1HCRXGONFdZSDs.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-51-passport-entry-stamp",
     "title": {
       "en": "Passport Entry Stamp",
-      "zh": "Passport Entry 郵票"
+      "zh": "Passport Entry 郵票",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Passport Entry Stamp - Created by @M_w14_(https://x.com/M_w14_",
@@ -1748,14 +1818,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-uvbE1o3K9l86ZW1N1pNML.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-50-physical-destruction-effect-card-lara-croft-",
     "title": {
       "en": "Physical Destruction Effect Card (Lara Croft)",
-      "zh": "Physical Destruction 效果 卡片 (Lara Croft)"
+      "zh": "Physical Destruction 效果 卡片 (Lara Croft)",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Physical Destruction Effect Card (Lara Croft) - Created by @op7418(https://x.com/op7418",
@@ -1772,14 +1843,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-BLiip47sS1MZ2p6RoUSJN.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-49-fashion-magazine-cover-style",
     "title": {
       "en": "Fashion Magazine Cover Style",
-      "zh": "Fashion 雜誌 封面 Style"
+      "zh": "Fashion 雜誌 封面 Style",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Fashion Magazine Cover Style - Created by @dotey(https://x.com/dotey",
@@ -1796,14 +1868,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-K-zMRlzu3y9bErJh5oDDe.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-48-voxel-style-3d-icon-conversion",
     "title": {
       "en": "Voxel Style 3D Icon Conversion",
-      "zh": "體素 Style 3D 圖標 Conversion"
+      "zh": "體素 Style 3D 圖標 Conversion",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Voxel Style 3D Icon Conversion - Created by @BrettFromDJ(https://x.com/BrettFromDJ",
@@ -1820,14 +1893,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-DePREjDt3nz6nxtQSWCtb.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-47-esc-keycap-miniature-diorama",
     "title": {
       "en": "ESC Keycap Miniature Diorama",
-      "zh": "ESC Keycap Miniature 場景模型"
+      "zh": "ESC Keycap Miniature 場景模型",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "ESC Keycap Miniature Diorama - Created by @egeberkina(https://x.com/egeberkina",
@@ -1845,14 +1919,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-OdsAa2Rkg3eU7abakGfNZ.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-46-happy-capsule-creation",
     "title": {
       "en": "Happy Capsule Creation",
-      "zh": "Happy 膠囊 Creation"
+      "zh": "Happy 膠囊 Creation",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Happy Capsule Creation - Created by @ZHO_ZHO_ZHO(https://x.com/ZHO_ZHO_ZHO",
@@ -1869,14 +1944,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-iw-Sugn5aVfAVnJxGSU_e.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-45-3d-chibi-style-university-anthropomorphic-mascot",
     "title": {
       "en": "3D Chibi-style University Anthropomorphic Mascot",
-      "zh": "3D Q版-style University Anthropomorphic Mascot"
+      "zh": "3D Q版-style University Anthropomorphic Mascot",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "3D Chibi-style University Anthropomorphic Mascot - Created by @dotey(https://x.com/dotey",
@@ -1897,14 +1973,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-JnhtyfaWRLJ48py1Fs2L8.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-44-rpg-style-character-card-creation",
     "title": {
       "en": "RPG-Style Character Card Creation",
-      "zh": "RPG-Style Character 卡片 Creation"
+      "zh": "RPG-Style Character 卡片 Creation",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "RPG-Style Character Card Creation - Created by @berryxia_ai(https://x.com/berryxia_ai",
@@ -1922,14 +1999,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-4fs3Id9SWxlM-gUGoQ9Pl.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-43-cute-chibi-matryoshka-dolls-girl-with-a-pearl-earring-",
     "title": {
       "en": "Cute Chibi Matryoshka Dolls (Girl with a Pearl Earring)",
-      "zh": "Cute Q版 套娃 娃娃s (Girl with a Pearl Earring)"
+      "zh": "Cute Q版 套娃 娃娃s (Girl with a Pearl Earring)",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Cute Chibi Matryoshka Dolls (Girl with a Pearl Earring) - Created by @ZHO_ZHO_ZHO(https://x.com/ZHO_ZHO_ZHO",
@@ -1946,14 +2024,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-pIPRRA5PM8cxFXTs-Alr8.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-42-3d-q-version-couple-snow-globe",
     "title": {
       "en": "3D Q-version Couple Snow Globe",
-      "zh": "3D Q-version Couple 雪花球"
+      "zh": "3D Q-version Couple 雪花球",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "3D Q-version Couple Snow Globe - Created by @balconychy(https://x.com/balconychy",
@@ -1973,14 +2052,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-MoV0NzeVQ2AZEaSbMYqfl.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-40-japanese-style-two-panel-manga-angry-girl-president-",
     "title": {
       "en": "Japanese-style Two-Panel Manga (Angry Girl President)",
-      "zh": "Japanese-style Two-Panel 漫畫 (Angry Girl President)"
+      "zh": "Japanese-style Two-Panel 漫畫 (Angry Girl President)",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Japanese-style Two-Panel Manga (Angry Girl President) - Created by @hellokaton(https://x.com/hellokaton",
@@ -2001,14 +2081,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-XDM_nzoGX3B2jB9L7igPb.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-39-fantasy-cartoon-illustration",
     "title": {
       "en": "Fantasy Cartoon Illustration",
-      "zh": "Fantasy C藝術oon 插圖"
+      "zh": "Fantasy C藝術oon 插圖",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Fantasy Cartoon Illustration - Created by @dotey(https://x.com/dotey",
@@ -2026,14 +2107,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-RaHNLaeUbUIIBk4628lgB.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-38-hand-drawn-infographic-card",
     "title": {
       "en": "Hand-drawn Infographic Card",
-      "zh": "Hand-drawn 資訊圖 卡片"
+      "zh": "Hand-drawn 資訊圖 卡片",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Hand-drawn Infographic Card - Created by @dotey(https://x.com/dotey",
@@ -2051,14 +2133,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-IYHHoIpU4W019PKtENm5m.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-37-pastel-power-3d-ads",
     "title": {
       "en": "Pastel Power 3D ADS",
-      "zh": "Pastel Power 3D ADS"
+      "zh": "Pastel Power 3D ADS",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Pastel Power 3D ADS - Created by @aziz4ai(https://x.com/aziz4ai",
@@ -2076,14 +2159,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-XwSqExH2NYE4F5AvJ_-X4.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-36-minimalist-3d-illustration-markdown-format-",
     "title": {
       "en": "Minimalist 3D Illustration (Markdown Format)",
-      "zh": "極簡 3D 插圖 (Markdown Format)"
+      "zh": "極簡 3D 插圖 (Markdown Format)",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Minimalist 3D Illustration (Markdown Format) - Created by @dotey(https://x.com/dotey",
@@ -2100,14 +2184,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-8RSXe2tZY5rBLLfYyVpCf.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-35-fluffy-jack-o-lantern",
     "title": {
       "en": "Fluffy Jack-o'-lantern",
-      "zh": "Fluffy Jack-o'-lantern"
+      "zh": "Fluffy Jack-o'-lantern",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Fluffy Jack-o'-lantern - Created by gizakdag(https://x.com/gizakdag",
@@ -2125,14 +2210,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-UDSfh81o50kmjmgX5BuTy.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-34-hand-drawn-infographic-card-cognition-",
     "title": {
       "en": "Hand-drawn Infographic Card (Cognition)",
-      "zh": "Hand-drawn 資訊圖 卡片 (Cognition)"
+      "zh": "Hand-drawn 資訊圖 卡片 (Cognition)",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Hand-drawn Infographic Card (Cognition) - Created by @dotey(https://x.com/dotey",
@@ -2150,14 +2236,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-ypjUbOaP1AqH_HBZ4VisI.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-33-family-wedding-photo-q-version-",
     "title": {
       "en": "Family Wedding Photo (Q-version)",
-      "zh": "Family 婚禮 Photo (Q-version)"
+      "zh": "Family 婚禮 Photo (Q-version)",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Family Wedding Photo (Q-version) - Created by @balconychy(https://x.com/balconychy",
@@ -2176,14 +2263,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-ZhHgKkryQe_e62gJyMpj8.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-32-3d-papercraft-pop-up-book",
     "title": {
       "en": "3D Papercraft Pop-up Book",
-      "zh": "3D Papercraft Pop-up Book"
+      "zh": "3D Papercraft Pop-up Book",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "3D Papercraft Pop-up Book - Created by @dotey(https://x.com/dotey",
@@ -2200,14 +2288,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-dHSoKQFhVLIqAdUKxXzwQ.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-31-anime-sticker-collection",
     "title": {
       "en": "Anime Sticker Collection",
-      "zh": "Anime Sticker Collection"
+      "zh": "Anime Sticker Collection",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Anime Sticker Collection - Created by @richardchang(https://x.com/richardchang",
@@ -2224,14 +2313,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-qVK6fm-fP8a4.jpeg",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-30-35mm-film-style-flying-island",
     "title": {
       "en": "35mm Film Style Flying Island",
-      "zh": "35mm Film Style Flying Island"
+      "zh": "35mm Film Style Flying Island",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "35mm Film Style Flying Island - Created by @dotey(https://x.com/dotey",
@@ -2248,14 +2338,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-YDjMSDxDmJiQmon9y0aQx.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-29-famous-painting-character-ootd",
     "title": {
       "en": "Famous Painting Character OOTD",
-      "zh": "Famous Painting Character OOTD"
+      "zh": "Famous Painting Character OOTD",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Famous Painting Character OOTD - Created by @ZHO_ZHO_ZHO(https://x.com/ZHO_ZHO_ZHO",
@@ -2276,14 +2367,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-cX5uRn99v6ieXg54VaMkT.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-28-flat-sticker-design",
     "title": {
       "en": "Flat Sticker Design",
-      "zh": "Flat Sticker 設計"
+      "zh": "Flat Sticker 設計",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Flat Sticker Design - Created by @ZHO_ZHO_ZHO(https://x.com/ZHO_ZHO_ZHO",
@@ -2303,14 +2395,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-_-Z8i4AiVnM8dH6b2eJwc.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-27-q-version-emoji-sticker-pack-creation",
     "title": {
       "en": "Q-version Emoji Sticker Pack Creation",
-      "zh": "Q-version Emoji Sticker Pack Creation"
+      "zh": "Q-version Emoji Sticker Pack Creation",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Q-version Emoji Sticker Pack Creation - Created by @dotey(https://x.com/dotey",
@@ -2329,14 +2422,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-z1V0ZUVo8ombk-OD14InN.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-26-famous-painting-character-cereal-ad",
     "title": {
       "en": "Famous Painting Character Cereal Ad",
-      "zh": "Famous Painting Character Cereal Ad"
+      "zh": "Famous Painting Character Cereal Ad",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Famous Painting Character Cereal Ad - Created by @ZHO_ZHO_ZHO(https://x.com/ZHO_ZHO_ZHO",
@@ -2356,14 +2450,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-AwueZe4-K5TmsFTdgWEIV.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-25-minimalist-3d-illustration",
     "title": {
       "en": "Minimalist 3D Illustration",
-      "zh": "極簡 3D 插圖"
+      "zh": "極簡 3D 插圖",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Minimalist 3D Illustration - Created by @0xdlk(https://x.com/0xdlk",
@@ -2380,14 +2475,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-FmnXy_FIA3t2o2JM1Acw7.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-24-funko-pop-figure-creation",
     "title": {
       "en": "Funko Pop Figure Creation",
-      "zh": "Funko Pop 公仔 Creation"
+      "zh": "Funko Pop 公仔 Creation",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Funko Pop Figure Creation - Created by @dotey(https://x.com/dotey",
@@ -2405,14 +2501,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-jCu4umK_f5nXmIbJCXh8U.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-22-xiaohongshu-cover-image",
     "title": {
       "en": "Xiaohongshu Cover Image",
-      "zh": "Xiaohongshu 封面 Image"
+      "zh": "Xiaohongshu 封面 Image",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Xiaohongshu Cover Image - Created by @balconychy(https://x.com/balconychy",
@@ -2429,14 +2526,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-JrohnNyUR5N1InLRZ6i--.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-21-chibi-character-sticker-pack",
     "title": {
       "en": "Chibi Character Sticker Pack",
-      "zh": "Q版 Character Sticker Pack"
+      "zh": "Q版 Character Sticker Pack",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Chibi Character Sticker Pack - Created by @leon_yuan2001(https://x.com/leon_yuan2001",
@@ -2455,14 +2553,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-bO9aE1WYvho9xC8XEFiTX.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-20-action-figure-and-real-person-in-the-same-frame",
     "title": {
       "en": "Action Figure and Real Person in the Same Frame",
-      "zh": "Action 公仔 and Real Person in the Same 框架"
+      "zh": "Action 公仔 and Real Person in the Same 框架",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Action Figure and Real Person in the Same Frame - Created by @dotey(https://x.com/dotey",
@@ -2479,14 +2578,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-bTTNaqHmHzMMpw8IYMM4Q.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-19-country-diorama-in-a-toy-box",
     "title": {
       "en": "Country Diorama in a Toy Box",
-      "zh": "Country 場景模型 in a Toy Box"
+      "zh": "Country 場景模型 in a Toy Box",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Country Diorama in a Toy Box - Created by @TheRelianceAI(https://x.com/TheRelianceAI",
@@ -2503,14 +2603,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-rzMTo8854xv3HS3hVS88M.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-18-pixar-3d-style",
     "title": {
       "en": "Pixar 3D Style",
-      "zh": "Pixar 3D Style"
+      "zh": "Pixar 3D Style",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Pixar 3D Style - Created by AnimeAI(https://animeai.online",
@@ -2527,14 +2628,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-fuxTM5hVn0yk_YDur6hZR.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-17-retro-crt-computer-boot-screen",
     "title": {
       "en": "Retro CRT Computer Boot Screen",
-      "zh": "Retro CRT Computer Boot Screen"
+      "zh": "Retro CRT Computer Boot Screen",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Retro CRT Computer Boot Screen - Created by @Gdgtify(https://x.com/Gdgtify",
@@ -2551,14 +2653,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-KBSeWJJB1EetQNuVABsg1.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-16-anime-style-badge",
     "title": {
       "en": "Anime-style Badge",
-      "zh": "Anime-style Badge"
+      "zh": "Anime-style Badge",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Anime-style Badge - Created by @Alittlefatwhale(https://x.com/Alittlefatwhale",
@@ -2575,14 +2678,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-Ca-5YJ46y4a9sscNaxYEu.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-15-satirical-poster-generation",
     "title": {
       "en": "Satirical Poster Generation",
-      "zh": "Satirical 海報 Generation"
+      "zh": "Satirical 海報 Generation",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Satirical Poster Generation - Created by @ZHO_ZHO_ZHO(https://x.com/ZHO_ZHO_ZHO",
@@ -2599,14 +2703,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-xGmNg1hgJY0uyFt3rz2cK.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-14-one-piece-themed-figure-creation",
     "title": {
       "en": "One Piece Themed Figure Creation",
-      "zh": "One Piece Themed 公仔 Creation"
+      "zh": "One Piece Themed 公仔 Creation",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "One Piece Themed Figure Creation - Created by @dotey(https://x.com/dotey",
@@ -2626,14 +2731,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-NvCTQQUq05OW6oKH5qwRq.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-13-photo-to-3d-q-version-style",
     "title": {
       "en": "Photo to 3D Q-version Style",
-      "zh": "Photo to 3D Q-version Style"
+      "zh": "Photo to 3D Q-version Style",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Photo to 3D Q-version Style - Created by @dotey(https://x.com/dotey",
@@ -2652,14 +2758,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-DT8wukx2fHHcrxXQosaRL.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-12-3d-couple-jewelry-box-figurine",
     "title": {
       "en": "3D Couple Jewelry Box Figurine",
-      "zh": "3D Couple Jewelry Box Figurine"
+      "zh": "3D Couple Jewelry Box Figurine",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "3D Couple Jewelry Box Figurine - Created by @dotey(https://x.com/dotey",
@@ -2679,14 +2786,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-YWXXlSDRM9VTziQ-IA2WS.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-11-ps2-game-cover-gta-x-shrek-",
     "title": {
       "en": "PS2 Game Cover (GTA x Shrek)",
-      "zh": "PS2 遊戲 封面 (GTA x Shrek)"
+      "zh": "PS2 遊戲 封面 (GTA x Shrek)",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "PS2 Game Cover (GTA x Shrek) - Created by @dotey(https://x.com/dotey",
@@ -2703,14 +2811,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-qVK6fm-fP8a4-grand.jpeg",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-10-satirical-cartoon-generation",
     "title": {
       "en": "Satirical Cartoon Generation",
-      "zh": "Satirical C藝術oon Generation"
+      "zh": "Satirical C藝術oon Generation",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Satirical Cartoon Generation - Created by @dotey(https://x.com/dotey",
@@ -2727,14 +2836,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-Z83GBoUT3DwcvoN5sHm0s.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-9-minimalist-futurist-poster",
     "title": {
       "en": "Minimalist Futurist Poster",
-      "zh": "極簡 Futurist 海報"
+      "zh": "極簡 Futurist 海報",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Minimalist Futurist Poster - Created by @ZHO_ZHO_ZHO(https://x.com/ZHO_ZHO_ZHO",
@@ -2752,14 +2862,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-DtLAhr11gXRLHpr6gewDw.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-8-lego-collectible-figure",
     "title": {
       "en": "Lego Collectible Figure",
-      "zh": "樂高 Collectible 公仔"
+      "zh": "樂高 Collectible 公仔",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Lego Collectible Figure - Created by @ZHO_ZHO_ZHO(https://x.com/ZHO_ZHO_ZHO",
@@ -2778,14 +2889,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini--GfTzdWQbEMLDiJiRLZ0T.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-7-personalized-room-design",
     "title": {
       "en": "Personalized Room Design",
-      "zh": "Personalized 房間 設計"
+      "zh": "Personalized 房間 設計",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Personalized Room Design - Created by @ZHO_ZHO_ZHO(https://x.com/ZHO_ZHO_ZHO",
@@ -2804,14 +2916,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-gjew3NuDghjCdTN4hNcAd.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-6-character-stepping-through-portal",
     "title": {
       "en": "Character Stepping Through Portal",
-      "zh": "Character Step徽章g Through 傳送門"
+      "zh": "Character Step徽章g Through 傳送門",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Character Stepping Through Portal - Created by @dotey(https://x.com/dotey",
@@ -2830,14 +2943,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-_NKwGXWrnvn2lkTyd9BcW.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-5-ghibli-style",
     "title": {
       "en": "Ghibli Style",
-      "zh": "吉卜力 Style"
+      "zh": "吉卜力 Style",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Ghibli Style - Created by AnimeAI(https://animeai.online",
@@ -2854,14 +2968,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-X0RI3ZzR8ycbFfn-1fHDY.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-4-3d-chibi-chinese-wedding-scene",
     "title": {
       "en": "3D Chibi Chinese Wedding Scene",
-      "zh": "3D Q版 Chinese 婚禮 場景"
+      "zh": "3D Q版 Chinese 婚禮 場景",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "3D Chibi Chinese Wedding Scene - Created by @balconychy(https://x.com/balconychy",
@@ -2880,14 +2995,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-xLsI7aK4zyVWcRwJ46a2E.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-3-retro-style-promotional-poster",
     "title": {
       "en": "Retro Style Promotional Poster",
-      "zh": "Retro Style 宣傳 海報"
+      "zh": "Retro Style 宣傳 海報",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "Retro Style Promotional Poster - Created by @dotey(https://x.com/dotey",
@@ -2904,14 +3020,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-thZejMgX0PGR1nPyj1Z3t.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-2-3d-polaroid-breakout-effect",
     "title": {
       "en": "3D Polaroid Breakout Effect",
-      "zh": "3D 拍立得 Breakout 效果"
+      "zh": "3D 拍立得 Breakout 效果",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "3D Polaroid Breakout Effect - Created by @dotey(https://x.com/dotey",
@@ -2930,14 +3047,15 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-_crFMo57tTJ1ttPkPCte1.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   },
   {
     "id": "awesome-1-3d-chibi-proposal-scene",
     "title": {
       "en": "3D Chibi Proposal Scene",
-      "zh": "3D Q版 求婚 場景"
+      "zh": "3D Q版 求婚 場景",
+      "sourceId": "nanobana"
     },
     "description": {
       "en": "3D Chibi Proposal Scene - Created by @balconychy(https://x.com/balconychy",
@@ -2956,7 +3074,7 @@
     ],
     "imageUrl": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry--2q-4vkvHtiJCtvj9cQGr.png?v=1",
     "sourceId": "awesome-nano-banana",
-    "createdAt": "2025-11-22T07:42:29.937Z",
-    "updatedAt": "2025-11-22T07:42:29.937Z"
+    "createdAt": "2025-11-22T08:24:38.927Z",
+    "updatedAt": "2025-11-22T08:24:38.927Z"
   }
 ]
