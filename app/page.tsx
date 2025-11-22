@@ -9,6 +9,8 @@ import Header from '@/components/Header';
 import HowToUse from '@/components/HowToUse';
 import Link from 'next/link';
 
+const ITEMS_PER_PAGE = 12;
+
 export default function Home() {
   const [language, setLanguage] = useState<'en' | 'zh'>('zh');
   const [selectedCategory, setSelectedCategory] = useState('all');
@@ -16,6 +18,7 @@ export default function Home() {
   const [showHelp, setShowHelp] = useState(false);
   const [prompts, setPrompts] = useState<Prompt[]>([]);
   const [loading, setLoading] = useState(true);
+  const [currentPage, setCurrentPage] = useState(1);
 
   useEffect(() => {
     const fetchPrompts = async () => {
@@ -52,6 +55,17 @@ export default function Home() {
       return matchesCategory && matchesSearch;
     });
   }, [prompts, selectedCategory, searchTerm]);
+
+  // Reset to page 1 when filters change
+  useEffect(() => {
+    setCurrentPage(1);
+  }, [selectedCategory, searchTerm]);
+
+  // Calculate pagination
+  const totalPages = Math.ceil(filteredPrompts.length / ITEMS_PER_PAGE);
+  const startIndex = (currentPage - 1) * ITEMS_PER_PAGE;
+  const endIndex = startIndex + ITEMS_PER_PAGE;
+  const paginatedPrompts = filteredPrompts.slice(startIndex, endIndex);
 
   if (loading) {
     return (
@@ -95,14 +109,21 @@ export default function Home() {
 
         <div className="retro-divider" />
 
-        <div className="mb-4 text-sm font-bold">
-          {language === 'en'
-            ? `Showing ${filteredPrompts.length} ${filteredPrompts.length === 1 ? 'prompt' : 'prompts'}`
-            : `顯示 ${filteredPrompts.length} 個提示詞`}
+        <div className="mb-4 flex justify-between items-center">
+          <div className="text-sm font-bold">
+            {language === 'en'
+              ? `Showing ${startIndex + 1}-${Math.min(endIndex, filteredPrompts.length)} of ${filteredPrompts.length} ${filteredPrompts.length === 1 ? 'prompt' : 'prompts'}`
+              : `顯示 ${startIndex + 1}-${Math.min(endIndex, filteredPrompts.length)} / 共 ${filteredPrompts.length} 個提示詞`}
+          </div>
+          {totalPages > 1 && (
+            <div className="text-sm font-bold">
+              {language === 'en' ? `Page ${currentPage} of ${totalPages}` : `第 ${currentPage} / ${totalPages} 頁`}
+            </div>
+          )}
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {filteredPrompts.map((prompt) => (
+          {paginatedPrompts.map((prompt) => (
             <PromptCard key={prompt.id} prompt={prompt} language={language} />
           ))}
         </div>
@@ -114,6 +135,72 @@ export default function Home() {
                 ? 'No prompts found. Try a different search or category.'
                 : '未找到提示詞。請嘗試其他搜尋或分類。'}
             </p>
+          </div>
+        )}
+
+        {/* Pagination Controls */}
+        {totalPages > 1 && (
+          <div className="mt-8 flex justify-center items-center gap-2 flex-wrap">
+            <button
+              onClick={() => setCurrentPage(1)}
+              disabled={currentPage === 1}
+              className="retro-button px-4 py-2 disabled:opacity-50 disabled:cursor-not-allowed"
+            >
+              {language === 'en' ? 'First' : '首頁'}
+            </button>
+            <button
+              onClick={() => setCurrentPage(currentPage - 1)}
+              disabled={currentPage === 1}
+              className="retro-button px-4 py-2 disabled:opacity-50 disabled:cursor-not-allowed"
+            >
+              {language === 'en' ? 'Previous' : '上一頁'}
+            </button>
+
+            {/* Page numbers */}
+            <div className="flex gap-1">
+              {Array.from({ length: totalPages }, (_, i) => i + 1)
+                .filter(page => {
+                  // Show first page, last page, current page, and pages around current
+                  return page === 1 ||
+                    page === totalPages ||
+                    Math.abs(page - currentPage) <= 1;
+                })
+                .map((page, index, array) => {
+                  // Add ellipsis if there's a gap
+                  const prevPage = array[index - 1];
+                  const showEllipsis = prevPage && page - prevPage > 1;
+
+                  return (
+                    <div key={page} className="flex gap-1">
+                      {showEllipsis && <span className="px-2 py-2">...</span>}
+                      <button
+                        onClick={() => setCurrentPage(page)}
+                        className={`px-4 py-2 font-bold border-2 border-current transition-colors ${currentPage === page
+                            ? 'bg-current text-white'
+                            : 'bg-transparent hover:bg-current hover:bg-opacity-20'
+                          }`}
+                      >
+                        {page}
+                      </button>
+                    </div>
+                  );
+                })}
+            </div>
+
+            <button
+              onClick={() => setCurrentPage(currentPage + 1)}
+              disabled={currentPage === totalPages}
+              className="retro-button px-4 py-2 disabled:opacity-50 disabled:cursor-not-allowed"
+            >
+              {language === 'en' ? 'Next' : '下一頁'}
+            </button>
+            <button
+              onClick={() => setCurrentPage(totalPages)}
+              disabled={currentPage === totalPages}
+              className="retro-button px-4 py-2 disabled:opacity-50 disabled:cursor-not-allowed"
+            >
+              {language === 'en' ? 'Last' : '末頁'}
+            </button>
           </div>
         )}
 
