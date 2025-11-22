@@ -98,31 +98,7 @@ export default function PromptCard({ prompt, language }: PromptCardProps) {
         </p>
 
         {/* Author Label */}
-        {/* Author Label */}
-        {(source || prompt.description.en.includes('Created by')) && (
-          <div className="mb-4">
-            <a
-              href={source?.url || '#'}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center gap-1.5 px-3 py-1.5 border-2 border-current bg-accent bg-opacity-40 hover:bg-opacity-60 transition-all text-xs font-bold"
-              title={source?.description?.[language] || source?.name}
-            >
-              <span className="opacity-70">
-                {language === 'en' ? 'Author: ' : '作者：'}
-                {(() => {
-                  // Try to extract author from description
-                  const desc = prompt.description.en;
-                  const match = desc.match(/Created by (@[^\s(]+)/);
-                  if (match) {
-                    return match[1];
-                  }
-                  return source?.name || 'Unknown';
-                })()}
-              </span>
-            </a>
-          </div>
-        )}
+
 
         {/* Tags */}
         <div className="flex flex-wrap gap-2 mb-4">
@@ -168,6 +144,32 @@ export default function PromptCard({ prompt, language }: PromptCardProps) {
             </code>
           </div>
         </div>
+
+        {/* Author Label */}
+        {(source || prompt.description.en.includes('Created by')) && (
+          <div className="mb-4 flex justify-end">
+            <a
+              href={source?.url || '#'}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-1.5 text-xs font-bold opacity-60 hover:opacity-100 transition-opacity"
+              title={source?.description?.[language] || source?.name}
+            >
+              <span>
+                {language === 'en' ? 'Source: ' : '來源：'}
+                {(() => {
+                  // Try to extract author from description
+                  const desc = prompt.description.en;
+                  const match = desc.match(/Created by (@[^\s(]+)/);
+                  if (match) {
+                    return `${source?.name} (${match[1]})`;
+                  }
+                  return source?.name || 'Unknown';
+                })()}
+              </span>
+            </a>
+          </div>
+        )}
 
         {/* Action Buttons */}
         <div className="flex gap-2 mt-auto">
