@@ -10,7 +10,7 @@ export default function Header({ language, onLanguageToggle, onShowHelp }: Heade
   return (
     <header className="border-b-4 border-current mb-8 pb-6">
       <div className="flex justify-between items-center mb-4">
-        <h1 className="text-2xl md:text-4xl lg:text-5xl font-bold scanline-effect">
+        <h1 className="text-2xl md:text-4xl lg:text-5xl font-bold scanline-effect leading-relaxed py-1">
           {language === 'en' ? 'Nano Banana Prompt Gallery' : 'Nano Banana 提示詞畫廊'}
         </h1>
         <div className="flex gap-2">
