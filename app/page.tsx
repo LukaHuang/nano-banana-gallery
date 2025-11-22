@@ -176,8 +176,8 @@ export default function Home() {
                       <button
                         onClick={() => setCurrentPage(page)}
                         className={`px-4 py-2 font-bold border-2 border-current transition-colors ${currentPage === page
-                            ? 'bg-current text-white'
-                            : 'bg-transparent hover:bg-current hover:bg-opacity-20'
+                          ? 'bg-current text-white'
+                          : 'bg-transparent hover:bg-current hover:bg-opacity-20'
                           }`}
                       >
                         {page}
@@ -207,8 +207,8 @@ export default function Home() {
         <footer className="mt-12 pt-6 border-t-4 border-current text-center space-y-4">
           <p className="text-sm opacity-70">
             {language === 'en'
-              ? 'All prompts sourced from nanobananaprompt.org'
-              : '所有提示詞來源：nanobananaprompt.org'}
+              ? '© 2025 LukaHuang. All rights reserved.'
+              : '© 2025 LukaHuang. 版權所有。'}
           </p>
           <div>
             <Link href="/about" className="retro-button inline-block">
