@@ -186,12 +186,12 @@ export default function PromptCard({ prompt, language }: PromptCardProps) {
           )}
         </button>
         <a
-          href="https://console.cloud.google.com/vertex-ai/studio/"
+          href="https://aistudio.google.com/"
           onClick={async (e) => {
             e.preventDefault();
             await copyToClipboard();
             setTimeout(() => {
-              window.open('https://console.cloud.google.com/vertex-ai/studio/', '_blank');
+              window.open('https://aistudio.google.com/', '_blank');
             }, 1000);
           }}
           className="flex-1 retro-button flex items-center justify-center gap-2 py-3 sm:py-2.5 text-sm font-bold bg-accent text-white cursor-pointer"
@@ -208,8 +208,8 @@ export default function PromptCard({ prompt, language }: PromptCardProps) {
               clipRule="evenodd"
             />
           </svg>
-          <span className="hidden xs:inline">Vertex AI Studio</span>
-          <span className="inline xs:hidden">Vertex AI</span>
+          <span className="hidden xs:inline">Google AI Studio</span>
+          <span className="inline xs:hidden">AI Studio</span>
         </a>
       </div>
 
