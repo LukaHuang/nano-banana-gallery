@@ -25,32 +25,32 @@ export default function PromptCard({ prompt, language }: PromptCardProps) {
   };
 
   return (
-    <div className="retro-card p-6 flex flex-col h-full relative">
+    <div className="retro-card p-4 sm:p-6 flex flex-col h-full relative">
       {/* Example Image */}
-      <div className="mb-4 border-3 border-current overflow-hidden relative bg-gradient-to-br from-purple-400 via-pink-400 to-orange-400">
+      <div className="mb-3 sm:mb-4 border-3 border-current overflow-hidden relative bg-gradient-to-br from-purple-400 via-pink-400 to-orange-400">
         {!imageError ? (
           <Image
             src={prompt.imageUrl}
             alt={prompt.title[language]}
             width={400}
             height={300}
-            className="w-full h-48 object-cover"
+            className="w-full h-40 sm:h-48 md:h-52 object-cover"
             onError={() => setImageError(true)}
           />
         ) : (
-          <div className="w-full h-48 flex items-center justify-center text-4xl">
+          <div className="w-full h-40 sm:h-48 md:h-52 flex items-center justify-center text-3xl sm:text-4xl">
             🍌
           </div>
         )}
       </div>
 
       {/* Title */}
-      <h3 className="text-xl font-bold mb-2">
+      <h3 className="text-lg sm:text-xl font-bold mb-2 leading-tight">
         {prompt.title[language]}
       </h3>
 
       {/* Description */}
-      <p className="text-sm mb-3 opacity-80">
+      <p className="text-xs sm:text-sm mb-3 opacity-80 leading-relaxed">
         {(() => {
           const desc = prompt.description[language];
           // Remove " - Created by ..." or " - 由 ... 創建"
@@ -61,30 +61,30 @@ export default function PromptCard({ prompt, language }: PromptCardProps) {
       </p>
 
       {/* Tags */}
-      <div className="flex flex-wrap gap-2 mb-4">
+      <div className="flex flex-wrap gap-1.5 sm:gap-2 mb-3 sm:mb-4">
         {prompt.tags.map((tag) => (
-          <span key={tag} className="retro-badge text-xs">
+          <span key={tag} className="retro-badge">
             {tag}
           </span>
         ))}
       </div>
 
       {/* Usage Instructions */}
-      <div className="mb-4 p-3 bg-accent bg-opacity-30 border-2 border-current">
-        <p className="text-xs font-mono whitespace-pre-wrap">
+      <div className="mb-3 sm:mb-4 p-2 sm:p-3 bg-accent bg-opacity-30 border-2 border-current">
+        <p className="text-xs font-mono whitespace-pre-wrap leading-relaxed">
           {prompt.usage[language]}
         </p>
       </div>
 
       {/* Prompt Preview/Full */}
-      <div className="mb-4 flex-grow">
+      <div className="mb-3 sm:mb-4 flex-grow">
         <div className="flex justify-between items-center mb-2">
-          <span className="text-xs font-bold uppercase">
+          <span className="text-xs sm:text-sm font-bold uppercase">
             {language === 'en' ? 'Prompt' : '提示詞'}
           </span>
           <button
             onClick={() => setShowFullPrompt(!showFullPrompt)}
-            className="text-xs underline cursor-pointer"
+            className="text-xs sm:text-sm underline cursor-pointer min-h-[44px] flex items-center"
           >
             {showFullPrompt
               ? language === 'en'
@@ -96,17 +96,17 @@ export default function PromptCard({ prompt, language }: PromptCardProps) {
           </button>
         </div>
         <div
-          className={`bg-gray-100 dark:bg-gray-800 p-3 border-2 border-current overflow-y-auto ${showFullPrompt ? 'max-h-64' : 'max-h-20'
+          className={`bg-gray-100 dark:bg-gray-800 p-2 sm:p-3 border-2 border-current overflow-y-auto ${showFullPrompt ? 'max-h-48 sm:max-h-64' : 'max-h-16 sm:max-h-20'
             } transition-all`}
         >
-          <code className="text-xs whitespace-pre-wrap font-mono">
+          <code className="text-xs whitespace-pre-wrap font-mono leading-relaxed">
             {prompt.prompt}
           </code>
         </div>
       </div>
 
       {/* Author & Source Label */}
-      <div className="mb-4 flex justify-end items-center gap-1 text-xs font-bold opacity-70">
+      <div className="mb-3 sm:mb-4 flex flex-wrap justify-end items-center gap-1 text-xs font-bold opacity-70">
         {(() => {
           // Try to extract author from description
           const desc = prompt.description.en;
@@ -149,10 +149,10 @@ export default function PromptCard({ prompt, language }: PromptCardProps) {
       </div>
 
       {/* Action Buttons */}
-      <div className="flex gap-2 mt-auto">
+      <div className="flex flex-col sm:flex-row gap-2 sm:gap-2 mt-auto">
         <button
           onClick={copyToClipboard}
-          className="flex-1 retro-button flex items-center justify-center gap-2 py-2.5 text-sm font-bold whitespace-nowrap"
+          className="flex-1 retro-button flex items-center justify-center gap-2 py-3 sm:py-2.5 text-sm font-bold"
         >
           {copied ? (
             <>
@@ -186,15 +186,15 @@ export default function PromptCard({ prompt, language }: PromptCardProps) {
           )}
         </button>
         <a
-          href="https://aistudio.google.com/"
+          href="https://console.cloud.google.com/vertex-ai/studio/"
           onClick={async (e) => {
             e.preventDefault();
             await copyToClipboard();
             setTimeout(() => {
-              window.open('https://aistudio.google.com/', '_blank');
+              window.open('https://console.cloud.google.com/vertex-ai/studio/', '_blank');
             }, 1000);
           }}
-          className="flex-1 retro-button flex items-center justify-center gap-2 py-2.5 text-sm font-bold bg-accent text-white whitespace-nowrap cursor-pointer"
+          className="flex-1 retro-button flex items-center justify-center gap-2 py-3 sm:py-2.5 text-sm font-bold bg-accent text-white cursor-pointer"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -208,17 +208,18 @@ export default function PromptCard({ prompt, language }: PromptCardProps) {
               clipRule="evenodd"
             />
           </svg>
-          Google AI Studio
+          <span className="hidden xs:inline">Vertex AI Studio</span>
+          <span className="inline xs:hidden">Vertex AI</span>
         </a>
       </div>
 
       {/* Copied Overlay */}
       {copied && (
         <div className="absolute inset-0 z-20 flex items-center justify-center bg-black/10 backdrop-blur-[1px] transition-all duration-200">
-          <div className="bg-[#8bd3dd] border-4 border-[#001858] text-[#001858] px-6 py-3 font-bold shadow-[4px_4px_0_#001858] flex items-center gap-3 transform scale-110 animate-in zoom-in duration-200">
+          <div className="bg-[#8bd3dd] border-3 sm:border-4 border-[#001858] text-[#001858] px-4 sm:px-6 py-2 sm:py-3 font-bold shadow-[3px_3px_0_#001858] sm:shadow-[4px_4px_0_#001858] flex items-center gap-2 sm:gap-3 transform scale-110 animate-in zoom-in duration-200">
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              className="h-6 w-6"
+              className="h-5 w-5 sm:h-6 sm:w-6"
               fill="none"
               viewBox="0 0 24 24"
               stroke="currentColor"
@@ -230,7 +231,7 @@ export default function PromptCard({ prompt, language }: PromptCardProps) {
                 d="M5 13l4 4L19 7"
               />
             </svg>
-            <span className="text-lg tracking-wider">
+            <span className="text-base sm:text-lg tracking-wider">
               {language === 'en' ? 'COPIED!' : '已複製！'}
             </span>
           </div>

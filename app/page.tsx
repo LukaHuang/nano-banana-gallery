@@ -78,7 +78,7 @@ export default function Home() {
   }
 
   return (
-    <div className="min-h-screen p-6 md:p-12">
+    <div className="min-h-screen p-3 sm:p-4 md:p-8 lg:p-12">
       <div className="max-w-7xl mx-auto">
         <Header
           language={language}
@@ -93,7 +93,7 @@ export default function Home() {
           />
         )}
 
-        <div className="mb-8 space-y-6">
+        <div className="mb-6 sm:mb-8 space-y-4 sm:space-y-6">
           <SearchBar
             searchTerm={searchTerm}
             onSearchChange={setSearchTerm}
@@ -109,28 +109,28 @@ export default function Home() {
 
         <div className="retro-divider" />
 
-        <div className="mb-4 flex justify-between items-center">
-          <div className="text-sm font-bold">
+        <div className="mb-3 sm:mb-4 flex flex-col xs:flex-row justify-between items-start xs:items-center gap-2">
+          <div className="text-xs sm:text-sm font-bold">
             {language === 'en'
               ? `Showing ${startIndex + 1}-${Math.min(endIndex, filteredPrompts.length)} of ${filteredPrompts.length} ${filteredPrompts.length === 1 ? 'prompt' : 'prompts'}`
               : `顯示 ${startIndex + 1}-${Math.min(endIndex, filteredPrompts.length)} / 共 ${filteredPrompts.length} 個提示詞`}
           </div>
           {totalPages > 1 && (
-            <div className="text-sm font-bold">
+            <div className="text-xs sm:text-sm font-bold">
               {language === 'en' ? `Page ${currentPage} of ${totalPages}` : `第 ${currentPage} / ${totalPages} 頁`}
             </div>
           )}
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6">
           {paginatedPrompts.map((prompt) => (
             <PromptCard key={prompt.id} prompt={prompt} language={language} />
           ))}
         </div>
 
         {filteredPrompts.length === 0 && (
-          <div className="text-center py-12 retro-card">
-            <p className="text-xl font-bold">
+          <div className="text-center py-8 sm:py-12 retro-card">
+            <p className="text-lg sm:text-xl font-bold px-4">
               {language === 'en'
                 ? 'No prompts found. Try a different search or category.'
                 : '未找到提示詞。請嘗試其他搜尋或分類。'}
@@ -140,20 +140,22 @@ export default function Home() {
 
         {/* Pagination Controls */}
         {totalPages > 1 && (
-          <div className="mt-8 flex justify-center items-center gap-2 flex-wrap">
+          <div className="mt-6 sm:mt-8 flex justify-center items-center gap-1 sm:gap-2 flex-wrap">
             <button
               onClick={() => setCurrentPage(1)}
               disabled={currentPage === 1}
-              className="retro-button px-4 py-2 disabled:opacity-50 disabled:cursor-not-allowed"
+              className="retro-button px-3 sm:px-4 py-2 text-xs sm:text-sm disabled:opacity-50 disabled:cursor-not-allowed"
             >
-              {language === 'en' ? 'First' : '首頁'}
+              <span className="hidden xs:inline">{language === 'en' ? 'First' : '首頁'}</span>
+              <span className="xs:hidden">««</span>
             </button>
             <button
               onClick={() => setCurrentPage(currentPage - 1)}
               disabled={currentPage === 1}
-              className="retro-button px-4 py-2 disabled:opacity-50 disabled:cursor-not-allowed"
+              className="retro-button px-3 sm:px-4 py-2 text-xs sm:text-sm disabled:opacity-50 disabled:cursor-not-allowed"
             >
-              {language === 'en' ? 'Previous' : '上一頁'}
+              <span className="hidden xs:inline">{language === 'en' ? 'Previous' : '上一頁'}</span>
+              <span className="xs:hidden">«</span>
             </button>
 
             {/* Page numbers */}
@@ -172,10 +174,10 @@ export default function Home() {
 
                   return (
                     <div key={page} className="flex gap-1">
-                      {showEllipsis && <span className="px-2 py-2">...</span>}
+                      {showEllipsis && <span className="px-1 sm:px-2 py-2 text-xs sm:text-sm">...</span>}
                       <button
                         onClick={() => setCurrentPage(page)}
-                        className={`px-4 py-2 font-bold border-2 border-current transition-colors ${currentPage === page
+                        className={`px-3 sm:px-4 py-2 text-xs sm:text-sm font-bold border-2 border-current transition-colors ${currentPage === page
                           ? 'bg-current text-white'
                           : 'bg-transparent hover:bg-current hover:bg-opacity-20'
                           }`}
@@ -190,16 +192,18 @@ export default function Home() {
             <button
               onClick={() => setCurrentPage(currentPage + 1)}
               disabled={currentPage === totalPages}
-              className="retro-button px-4 py-2 disabled:opacity-50 disabled:cursor-not-allowed"
+              className="retro-button px-3 sm:px-4 py-2 text-xs sm:text-sm disabled:opacity-50 disabled:cursor-not-allowed"
             >
-              {language === 'en' ? 'Next' : '下一頁'}
+              <span className="hidden xs:inline">{language === 'en' ? 'Next' : '下一頁'}</span>
+              <span className="xs:hidden">»</span>
             </button>
             <button
               onClick={() => setCurrentPage(totalPages)}
               disabled={currentPage === totalPages}
-              className="retro-button px-4 py-2 disabled:opacity-50 disabled:cursor-not-allowed"
+              className="retro-button px-3 sm:px-4 py-2 text-xs sm:text-sm disabled:opacity-50 disabled:cursor-not-allowed"
             >
-              {language === 'en' ? 'Last' : '末頁'}
+              <span className="hidden xs:inline">{language === 'en' ? 'Last' : '末頁'}</span>
+              <span className="xs:hidden">»»</span>
             </button>
           </div>
         )}

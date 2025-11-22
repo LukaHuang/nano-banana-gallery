@@ -34,9 +34,21 @@ body {
   transition: all 0.2s ease;
 }
 
+@media (max-width: 640px) {
+  .retro-card {
+    box-shadow: 4px 4px 0 rgba(0, 24, 88, 0.3);
+  }
+}
+
 .retro-card:hover {
   transform: translate(-2px, -2px);
   box-shadow: 10px 10px 0 rgba(0, 24, 88, 0.3);
+}
+
+@media (max-width: 640px) {
+  .retro-card:hover {
+    box-shadow: 6px 6px 0 rgba(0, 24, 88, 0.3);
+  }
 }
 
 .retro-button {
@@ -49,11 +61,31 @@ body {
   transition: all 0.1s ease;
   text-transform: uppercase;
   letter-spacing: 0.05em;
+  min-height: 44px; /* Minimum touch target size */
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media (max-width: 640px) {
+  .retro-button {
+    padding: 0.625rem 1rem;
+    font-size: 0.875rem;
+    min-height: 48px; /* Larger touch target on mobile */
+  }
 }
 
 .retro-button:hover {
   transform: translate(-2px, -2px);
   box-shadow: 6px 6px 0 var(--border);
+}
+
+@media (max-width: 640px) {
+  .retro-button:hover {
+    /* Reduce hover effect on mobile for better performance */
+    transform: translate(-1px, -1px);
+    box-shadow: 5px 5px 0 var(--border);
+  }
 }
 
 .retro-button:active {
@@ -71,6 +103,15 @@ body {
   padding: 0.75rem;
   font-family: 'Courier New', monospace;
   width: 100%;
+  font-size: 16px; /* Prevents iOS zoom on focus */
+  min-height: 44px; /* Minimum touch target */
+}
+
+@media (max-width: 640px) {
+  .retro-input {
+    padding: 1rem;
+    min-height: 48px;
+  }
 }
 
 .retro-input:focus {
@@ -89,10 +130,23 @@ body {
   text-transform: uppercase;
 }
 
+@media (max-width: 640px) {
+  .retro-badge {
+    font-size: 0.625rem;
+    padding: 0.2rem 0.5rem;
+  }
+}
+
 .retro-divider {
   height: 3px;
   background: var(--border);
   margin: 2rem 0;
+}
+
+@media (max-width: 640px) {
+  .retro-divider {
+    margin: 1rem 0;
+  }
 }
 
 /* Scanline effect */
@@ -120,4 +174,31 @@ body {
   background: rgba(245, 130, 174, 0.3);
   animation: scanline 3s linear infinite;
   pointer-events: none;
+}
+
+/* Mobile-specific utilities */
+@media (max-width: 640px) {
+  /* Improve readability on small screens */
+  .text-responsive {
+    font-size: clamp(0.875rem, 2.5vw, 1rem);
+  }
+  
+  /* Better spacing for mobile */
+  .container-mobile {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  
+  /* Prevent horizontal scroll */
+  .prevent-scroll {
+    overflow-x: hidden;
+    max-width: 100vw;
+  }
+}
+
+/* Tablet optimizations */
+@media (min-width: 641px) and (max-width: 1024px) {
+  .retro-button {
+    padding: 0.7rem 1.25rem;
+  }
 }
