@@ -152,7 +152,8 @@ export default function PromptCard({ prompt, language }: PromptCardProps) {
       <div className="flex gap-2 mt-auto">
         <button
           onClick={copyToClipboard}
-          className="flex-1 retro-button flex items-center justify-center gap-2 py-2.5 text-sm font-bold whitespace-nowrap"
+          className={`flex-1 retro-button flex items-center justify-center gap-2 py-2.5 text-sm font-bold whitespace-nowrap transition-colors duration-200 ${copied ? '!bg-green-500 !text-white !border-green-700' : ''
+            }`}
         >
           {copied ? (
             <>
