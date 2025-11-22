@@ -187,9 +187,14 @@ export default function PromptCard({ prompt, language }: PromptCardProps) {
         </button>
         <a
           href="https://aistudio.google.com/"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="flex-1 retro-button flex items-center justify-center gap-2 py-2.5 text-sm font-bold bg-accent text-white whitespace-nowrap"
+          onClick={async (e) => {
+            e.preventDefault();
+            await copyToClipboard();
+            setTimeout(() => {
+              window.open('https://aistudio.google.com/', '_blank');
+            }, 1000);
+          }}
+          className="flex-1 retro-button flex items-center justify-center gap-2 py-2.5 text-sm font-bold bg-accent text-white whitespace-nowrap cursor-pointer"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
