@@ -3,10 +3,11 @@ import { getPromptById, updatePrompt, deletePrompt } from '@/lib/db';
 
 export async function GET(
   request: NextRequest,
-  { params }: { params: { id: string } }
+  { params }: { params: Promise<{ id: string }> }
 ) {
   try {
-    const prompt = await getPromptById(params.id);
+    const { id } = await params;
+    const prompt = await getPromptById(id);
 
     if (!prompt) {
       return NextResponse.json({ error: 'Prompt not found' }, { status: 404 });
@@ -20,11 +21,12 @@ export async function GET(
 
 export async function PUT(
   request: NextRequest,
-  { params }: { params: { id: string } }
+  { params }: { params: Promise<{ id: string }> }
 ) {
   try {
+    const { id } = await params;
     const body = await request.json();
-    const updatedPrompt = await updatePrompt(params.id, body);
+    const updatedPrompt = await updatePrompt(id, body);
 
     if (!updatedPrompt) {
       return NextResponse.json({ error: 'Prompt not found' }, { status: 404 });
@@ -38,10 +40,11 @@ export async function PUT(
 
 export async function DELETE(
   request: NextRequest,
-  { params }: { params: { id: string } }
+  { params }: { params: Promise<{ id: string }> }
 ) {
   try {
-    const success = await deletePrompt(params.id);
+    const { id } = await params;
+    const success = await deletePrompt(id);
 
     if (!success) {
       return NextResponse.json({ error: 'Prompt not found' }, { status: 404 });
