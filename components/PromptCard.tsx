@@ -168,7 +168,7 @@ export default function PromptCard({ prompt, language }: PromptCardProps) {
                   className="hover:underline hover:text-accent"
                   title={source?.description?.[language]}
                 >
-                  {source?.name === 'nanobana' ? 'Nano Banana' : (source?.name || 'Unknown')}
+                  {source?.name === 'nanobana' ? 'nanobananaprompt.org' : (source?.name || 'nanobananaprompt.org')}
                 </a>
 
                 {/* Author (if specific) */}
