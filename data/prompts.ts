@@ -26,7 +26,6 @@ export interface Prompt {
   category: string;
   tags: string[];
   imageUrl: string;
-  sourceId: 'nanobana',
   sourceId?: string;
 }
 
