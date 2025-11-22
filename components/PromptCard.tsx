@@ -152,7 +152,7 @@ export default function PromptCard({ prompt, language }: PromptCardProps) {
       <div className="flex gap-2 mt-auto">
         <button
           onClick={copyToClipboard}
-          className="flex-1 retro-button flex items-center justify-center gap-2 py-2 text-sm whitespace-nowrap"
+          className="flex-1 retro-button flex items-center justify-center gap-2 py-2.5 text-sm font-bold whitespace-nowrap"
         >
           {copied ? (
             <>
@@ -181,7 +181,7 @@ export default function PromptCard({ prompt, language }: PromptCardProps) {
                 <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
                 <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
               </svg>
-              {language === 'en' ? 'Copy Prompt' : '複製提示詞'}
+              {language === 'en' ? 'Copy' : '複製'}
             </>
           )}
         </button>
@@ -189,7 +189,7 @@ export default function PromptCard({ prompt, language }: PromptCardProps) {
           href="https://aistudio.google.com/"
           target="_blank"
           rel="noopener noreferrer"
-          className="flex-1 retro-button flex items-center justify-center gap-2 py-2 text-sm bg-accent text-white whitespace-nowrap"
+          className="flex-1 retro-button flex items-center justify-center gap-2 py-2.5 text-sm font-bold bg-accent text-white whitespace-nowrap"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -203,7 +203,7 @@ export default function PromptCard({ prompt, language }: PromptCardProps) {
               clipRule="evenodd"
             />
           </svg>
-          {language === 'en' ? 'Try in AI Studio' : '在 AI Studio 試用'}
+          Google AI Studio
         </a>
       </div>
     </div>
