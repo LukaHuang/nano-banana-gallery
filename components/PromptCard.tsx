@@ -149,45 +149,46 @@ export default function PromptCard({ prompt, language }: PromptCardProps) {
         </div>
 
         {/* Author & Source Label */}
-        <div className="mb-4 flex flex-col items-end gap-1 text-xs font-bold opacity-70">
-          {/* Author */}
-          <div>
-            {language === 'en' ? 'Author: ' : '作者：'}
-            {(() => {
-              // Try to extract author from description
-              const desc = prompt.description.en;
-              const match = desc.match(/Created by (@[^\s(]+)/);
-              if (match) {
-                return (
-                  <a
-                    href={`https://x.com/${match[1].replace('@', '')}`}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="hover:underline hover:text-accent"
-                  >
-                    {match[1]}
-                  </a>
-                );
-              }
-              return source?.name === 'nanobana' ? 'Nano Banana' : (source?.name || 'Unknown');
-            })()}
-          </div>
+        <div className="mb-4 flex justify-end items-center gap-1 text-xs font-bold opacity-70">
+          {(() => {
+            // Try to extract author from description
+            const desc = prompt.description.en;
+            const match = desc.match(/Created by (@[^\s(]+)/);
+            const specificAuthor = match ? match[1] : null;
 
-          {/* Source */}
-          {source && (
-            <div>
-              {language === 'en' ? 'Source: ' : '來源：'}
-              <a
-                href={source.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="hover:underline hover:text-accent"
-                title={source.description?.[language]}
-              >
-                {source.name}
-              </a>
-            </div>
-          )}
+            return (
+              <span className="flex items-center gap-1">
+                {language === 'en' ? 'Source: ' : '來源：'}
+
+                {/* Source Name */}
+                <a
+                  href={source?.url || '#'}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover:underline hover:text-accent"
+                  title={source?.description?.[language]}
+                >
+                  {source?.name === 'nanobana' ? 'Nano Banana' : (source?.name || 'Unknown')}
+                </a>
+
+                {/* Author (if specific) */}
+                {specificAuthor && (
+                  <>
+                    <span> (</span>
+                    <a
+                      href={`https://x.com/${specificAuthor.replace('@', '')}`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="hover:underline hover:text-accent"
+                    >
+                      {specificAuthor}
+                    </a>
+                    <span>)</span>
+                  </>
+                )}
+              </span>
+            );
+          })()}
         </div>
 
         {/* Action Buttons */}
