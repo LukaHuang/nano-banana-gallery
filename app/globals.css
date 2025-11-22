@@ -1,0 +1,123 @@
+@import "tailwindcss";
+
+:root {
+  --background: #fef6e4;
+  --foreground: #001858;
+  --primary: #f582ae;
+  --secondary: #8bd3dd;
+  --accent: #f3d2c1;
+  --border: #001858;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #001858;
+    --foreground: #fef6e4;
+    --primary: #f582ae;
+    --secondary: #8bd3dd;
+    --accent: #f3d2c1;
+    --border: #fef6e4;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: 'Courier New', monospace;
+}
+
+/* RetroUI Styles */
+.retro-card {
+  background: var(--background);
+  border: 3px solid var(--border);
+  box-shadow: 8px 8px 0 rgba(0, 24, 88, 0.3);
+  transition: all 0.2s ease;
+}
+
+.retro-card:hover {
+  transform: translate(-2px, -2px);
+  box-shadow: 10px 10px 0 rgba(0, 24, 88, 0.3);
+}
+
+.retro-button {
+  background: var(--primary);
+  border: 3px solid var(--border);
+  box-shadow: 4px 4px 0 var(--border);
+  padding: 0.75rem 1.5rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.1s ease;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.retro-button:hover {
+  transform: translate(-2px, -2px);
+  box-shadow: 6px 6px 0 var(--border);
+}
+
+.retro-button:active {
+  transform: translate(2px, 2px);
+  box-shadow: 2px 2px 0 var(--border);
+}
+
+.retro-button-secondary {
+  background: var(--secondary);
+}
+
+.retro-input {
+  background: var(--background);
+  border: 3px solid var(--border);
+  padding: 0.75rem;
+  font-family: 'Courier New', monospace;
+  width: 100%;
+}
+
+.retro-input:focus {
+  outline: none;
+  border-color: var(--primary);
+  box-shadow: 0 0 0 3px rgba(245, 130, 174, 0.2);
+}
+
+.retro-badge {
+  display: inline-block;
+  background: var(--accent);
+  border: 2px solid var(--border);
+  padding: 0.25rem 0.75rem;
+  font-size: 0.75rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.retro-divider {
+  height: 3px;
+  background: var(--border);
+  margin: 2rem 0;
+}
+
+/* Scanline effect */
+@keyframes scanline {
+  0% {
+    transform: translateY(-100%);
+  }
+  100% {
+    transform: translateY(100%);
+  }
+}
+
+.scanline-effect {
+  position: relative;
+  overflow: hidden;
+}
+
+.scanline-effect::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background: rgba(245, 130, 174, 0.3);
+  animation: scanline 3s linear infinite;
+  pointer-events: none;
+}
