@@ -94,7 +94,6 @@ export default function PromptCard({ prompt, language }: PromptCardProps) {
             className="inline-flex items-center gap-1.5 px-3 py-1.5 border-2 border-current bg-accent bg-opacity-40 hover:bg-opacity-60 transition-all text-xs font-bold"
             title={source.description?.[language] || source.name}
           >
-            <span className="text-sm">🍌</span>
             <span className="opacity-70">
               {language === 'en' ? 'Author: ' : '作者：'}
               {source.name}
