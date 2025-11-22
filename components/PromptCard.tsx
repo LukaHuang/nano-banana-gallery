@@ -99,7 +99,7 @@ export default function PromptCard({ prompt, language }: PromptCardProps) {
           className={`bg-gray-100 dark:bg-gray-800 p-2 sm:p-3 border-2 border-current overflow-y-auto ${showFullPrompt ? 'max-h-48 sm:max-h-64' : 'max-h-16 sm:max-h-20'
             } transition-all`}
         >
-          <code className="text-xs whitespace-pre-wrap font-mono leading-relaxed">
+          <code className="text-xs whitespace-pre-wrap font-mono leading-relaxed text-white">
             {prompt.prompt}
           </code>
         </div>
