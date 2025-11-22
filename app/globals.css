@@ -3,20 +3,21 @@
 :root {
   --background: #fef6e4;
   --foreground: #001858;
-  --primary: #f582ae;
+  --primary: #ff69b4;
   --secondary: #8bd3dd;
-  --accent: #f3d2c1;
+  --accent: #8bd3dd;
   --border: #001858;
 }
 
+/* Force light mode for consistent design across all devices */
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #001858;
-    --foreground: #fef6e4;
-    --primary: #f582ae;
+    --background: #fef6e4;
+    --foreground: #001858;
+    --primary: #ff69b4;
     --secondary: #8bd3dd;
-    --accent: #f3d2c1;
-    --border: #fef6e4;
+    --accent: #8bd3dd;
+    --border: #001858;
   }
 }
 
