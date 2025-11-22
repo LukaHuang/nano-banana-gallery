@@ -152,8 +152,7 @@ export default function PromptCard({ prompt, language }: PromptCardProps) {
       <div className="flex gap-2 mt-auto">
         <button
           onClick={copyToClipboard}
-          className={`flex-1 retro-button flex items-center justify-center gap-2 py-2.5 text-sm font-bold whitespace-nowrap transition-colors duration-200 ${copied ? '!bg-green-500 !text-white !border-green-700' : ''
-            }`}
+          className="flex-1 retro-button flex items-center justify-center gap-2 py-2.5 text-sm font-bold whitespace-nowrap"
         >
           {copied ? (
             <>
@@ -212,6 +211,31 @@ export default function PromptCard({ prompt, language }: PromptCardProps) {
           Google AI Studio
         </a>
       </div>
+
+      {/* Copied Overlay */}
+      {copied && (
+        <div className="absolute inset-0 z-20 flex items-center justify-center bg-black/10 backdrop-blur-[1px] transition-all duration-200">
+          <div className="bg-[#8bd3dd] border-4 border-[#001858] text-[#001858] px-6 py-3 font-bold shadow-[4px_4px_0_#001858] flex items-center gap-3 transform scale-110 animate-in zoom-in duration-200">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              className="h-6 w-6"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke="currentColor"
+              strokeWidth={3}
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                d="M5 13l4 4L19 7"
+              />
+            </svg>
+            <span className="text-lg tracking-wider">
+              {language === 'en' ? 'COPIED!' : '已複製！'}
+            </span>
+          </div>
+        </div>
+      )}
     </div>
   );
 }
