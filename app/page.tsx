@@ -206,9 +206,7 @@ export default function Home() {
 
         <footer className="mt-12 pt-6 border-t-4 border-current text-center space-y-4">
           <p className="text-sm opacity-70">
-            {language === 'en'
-              ? '© 2025 LukaHuang. All rights reserved.'
-              : '© 2025 LukaHuang. 版權所有。'}
+            © 2025 LukaHuang. All rights reserved.
           </p>
           <div>
             <Link href="/about" className="retro-button inline-block">

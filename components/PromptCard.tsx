@@ -98,18 +98,27 @@ export default function PromptCard({ prompt, language }: PromptCardProps) {
         </p>
 
         {/* Author Label */}
-        {source && (
+        {/* Author Label */}
+        {(source || prompt.description.en.includes('Created by')) && (
           <div className="mb-4">
             <a
-              href={source.url}
+              href={source?.url || '#'}
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-1.5 px-3 py-1.5 border-2 border-current bg-accent bg-opacity-40 hover:bg-opacity-60 transition-all text-xs font-bold"
-              title={source.description?.[language] || source.name}
+              title={source?.description?.[language] || source?.name}
             >
               <span className="opacity-70">
                 {language === 'en' ? 'Author: ' : '作者：'}
-                {source.name}
+                {(() => {
+                  // Try to extract author from description
+                  const desc = prompt.description.en;
+                  const match = desc.match(/Created by (@[^\s(]+)/);
+                  if (match) {
+                    return match[1];
+                  }
+                  return source?.name || 'Unknown';
+                })()}
               </span>
             </a>
           </div>
