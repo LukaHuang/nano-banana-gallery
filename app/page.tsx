@@ -208,11 +208,7 @@ export default function Home() {
           <p className="text-sm opacity-70">
             © 2025 LukaHuang. All rights reserved.
           </p>
-          <div>
-            <Link href="/about" className="retro-button inline-block">
-              🍌 {language === 'en' ? 'About nanobana' : '關於 nanobana'}
-            </Link>
-          </div>
+
         </footer>
       </div>
     </div>
